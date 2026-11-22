@@ -1,0 +1,29 @@
+{
+ "conv_id": "T05",
+ "version": "v2",
+ "sample_idx": 0,
+ "text": "Issue: Duplicate charge of ₹1,299 on 12 Nov (card ending 4417).\nStatus: Reversal raised with payment partner (Ref: RV-220918); 3–5 working days turnaround.\nNext step: Follow up if uncredited by 20 Nov before customer initiates a bank dispute.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:59:35",
+ "usage": {
+  "candidatesTokenCount": 61,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 190
+   }
+  ],
+  "totalTokenCount": 251,
+  "promptTokenCount": 190
+ },
+ "credits": 0.02,
+ "latency_ms": 11199,
+ "cached": false
+}

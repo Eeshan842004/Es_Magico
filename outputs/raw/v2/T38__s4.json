@@ -1,0 +1,29 @@
+{
+ "conv_id": "T38",
+ "version": "v2",
+ "sample_idx": 4,
+ "text": "Issue: Customer wants a partial return of the bulb pack (₹899) from order LM-48001.\nStatus: Customer agreed to the ₹50 restocking fee (₹849 net refund).\nNext step: Process the partial return and issue the ₹849 refund.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:11:22",
+ "usage": {
+  "candidatesTokenCount": 55,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 172
+   }
+  ],
+  "totalTokenCount": 227,
+  "promptTokenCount": 172
+ },
+ "credits": 0.02,
+ "latency_ms": 16706,
+ "cached": false
+}

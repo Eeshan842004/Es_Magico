@@ -1,0 +1,29 @@
+{
+ "conv_id": "T17",
+ "version": "v1",
+ "sample_idx": 1,
+ "text": "**What the customer wants:**\nThe customer is following up on a delayed warranty claim (WC-3391) for a non-responsive Lumo Hub. They wanted an update on the repair process, a formal note regarding a missed callback on 5 November, confirmation that they would not be charged for a replacement, a pickup slip upon courier collection, and confirmation that their custom automations would transfer to the new unit.\n\n**What has been done so far:**\n* The agent logged a note on the claim regarding the service centre delay and the missed 5 November callback.\n* The service centre confirmed the unit cannot be repaired and approved a free warranty replacement.\n* A courier swap (delivering the replacement and collecting the old unit) has been booked for 22 November between 2:00 PM and 5:00 PM, with a note added to ensure the courier provides a pickup slip.\n* The agent confirmed that custom automations are saved to the customer's Lumo account, though devices will need to be re-paired.\n\n**What happens next:**\nThe courier will complete the unit swap on the afternoon of 22 November and provide a pickup slip. Once the customer logs into their account on the new hub, they will re-pair their devices to restore their setup. No further action is required unless an issue arises with the delivery.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:08:17",
+ "usage": {
+  "candidatesTokenCount": 323,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 575
+   }
+  ],
+  "totalTokenCount": 898,
+  "promptTokenCount": 575
+ },
+ "credits": 0.1,
+ "latency_ms": 13725,
+ "cached": false
+}

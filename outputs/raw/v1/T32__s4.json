@@ -1,0 +1,29 @@
+{
+ "conv_id": "T32",
+ "version": "v1",
+ "sample_idx": 4,
+ "text": "The customer needs help connecting their hub, which is displaying \"Error 4012 device unreachable.\" So far, the previous agent explained that attachments cannot be opened in chat, obtained the error code directly from the customer, and advised them to restart their router. Next, the customer is going to restart their router and test the connection again.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:11:36",
+ "usage": {
+  "candidatesTokenCount": 89,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 168
+   }
+  ],
+  "totalTokenCount": 257,
+  "promptTokenCount": 168
+ },
+ "credits": 0.03,
+ "latency_ms": 5283,
+ "cached": false
+}

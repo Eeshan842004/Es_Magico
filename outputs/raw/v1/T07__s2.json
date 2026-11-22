@@ -1,0 +1,29 @@
+{
+ "conv_id": "T07",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "The customer reported that a light bulb they purchased two days ago is not working and wants a replacement. So far, the agent apologized for the inconvenience, requested a photo of the bulb, and the customer provided it. Next, a replacement bulb is being sent and will be delivered within four days.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:03:23",
+ "usage": {
+  "candidatesTokenCount": 75,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 133
+   }
+  ],
+  "totalTokenCount": 208,
+  "promptTokenCount": 133
+ },
+ "credits": 0.02,
+ "latency_ms": 10787,
+ "cached": false
+}

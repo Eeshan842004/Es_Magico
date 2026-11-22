@@ -1,0 +1,29 @@
+{
+ "conv_id": "T09",
+ "version": "v1",
+ "sample_idx": 4,
+ "text": "The customer contacted support regarding a smart plug (Order LM-51310) that unexpectedly turns off around 2:00 AM without any active schedules. The agent ruled out app scheduling and instructed the customer to run a firmware update, which the customer is currently installing. Next, the customer will monitor the plug overnight and follow up tomorrow, with a replacement arranged if the issue continues.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:02:17",
+ "usage": {
+  "candidatesTokenCount": 101,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 188
+   }
+  ],
+  "totalTokenCount": 289,
+  "promptTokenCount": 188
+ },
+ "credits": 0.03,
+ "latency_ms": 5660,
+ "cached": false
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T11",
+ "version": "v2",
+ "sample_idx": 2,
+ "text": "Issue: Customer initiated chat with no stated inquiry yet.\nStatus: Awaiting customer details.\nNext step: Greet customer and ask how to assist.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:07:49",
+ "usage": {
+  "candidatesTokenCount": 36,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 102
+   }
+  ],
+  "totalTokenCount": 138,
+  "promptTokenCount": 102
+ },
+ "credits": 0.01,
+ "latency_ms": 6254,
+ "cached": false
+}

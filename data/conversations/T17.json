@@ -1,0 +1,98 @@
+{
+ "id": "T17",
+ "channel": "email",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Writing about warranty claim WC-3391 for my Lumo Hub bought 14 March 2025. It stopped responding at the start of October and I posted it to your service centre on 28 Oct as instructed."
+  },
+  {
+   "role": "agent",
+   "text": "Thanks, I see the claim. The unit failed the first check on 2 Nov."
+  },
+  {
+   "role": "customer",
+   "text": "Right, I sent it on 28 Oct. Why did it take until 2 Nov to even check? I was told 7 days for the whole process."
+  },
+  {
+   "role": "agent",
+   "text": "The service centre had a backlog. Sorry about that."
+  },
+  {
+   "role": "customer",
+   "text": "A backlog is not my problem. I work from home and the hub runs my office lights, my heating schedule and the door sensor."
+  },
+  {
+   "role": "agent",
+   "text": "Understood. I'll push the service centre for a faster decision."
+  },
+  {
+   "role": "customer",
+   "text": "Please do. Also, I want it on record that I called on 5 Nov and was told someone would call me back. Nobody did."
+  },
+  {
+   "role": "agent",
+   "text": "I can see the call log, and I'm sorry no one followed up. I've added a note to your claim."
+  },
+  {
+   "role": "customer",
+   "text": "Thank you. What happens now?"
+  },
+  {
+   "role": "agent",
+   "text": "Update: the service centre confirms repair is not possible, so we will replace the unit under warranty."
+  },
+  {
+   "role": "customer",
+   "text": "Good. When do I get it? And do I have to pay anything?"
+  },
+  {
+   "role": "agent",
+   "text": "There is no charge. We need to collect the old unit first. Is a pickup on 22 Nov between 10 and 1 okay?"
+  },
+  {
+   "role": "customer",
+   "text": "I'm out on the 22nd morning, I have a client meeting."
+  },
+  {
+   "role": "agent",
+   "text": "Then 22 Nov afternoon, 2 to 5?"
+  },
+  {
+   "role": "customer",
+   "text": "That works."
+  },
+  {
+   "role": "agent",
+   "text": "Booked. The courier will bring the replacement and take the old unit in the same visit."
+  },
+  {
+   "role": "customer",
+   "text": "Great. Please make sure they bring a pickup slip, last time the courier had none and I had no proof."
+  },
+  {
+   "role": "agent",
+   "text": "Noted, I'll add that to the booking."
+  },
+  {
+   "role": "customer",
+   "text": "One more thing. My previous hub had a custom automation setup. Will the new unit keep my automations?"
+  },
+  {
+   "role": "agent",
+   "text": "Automations are stored in your Lumo account, so they'll reappear once you log in with the new hub. You may need to re-pair your devices."
+  },
+  {
+   "role": "customer",
+   "text": "Ok, I'll allow an hour for that."
+  },
+  {
+   "role": "agent",
+   "text": "Is there anything else I can help with?"
+  },
+  {
+   "role": "customer",
+   "text": "No, that's all. Thanks for sorting this out in the end."
+  }
+ ]
+}

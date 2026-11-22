@@ -1,0 +1,29 @@
+{
+ "conv_id": "T28",
+ "version": "v2",
+ "sample_idx": 1,
+ "text": "Issue: Third-party inquiry regarding unreceived order LM-49344 (status and delivery address).\nStatus: Declined to share details due to privacy policy; requested account holder reach out directly.\nNext step: Verify account holder identity if she contacts support via registered email or phone.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:06:40",
+ "usage": {
+  "candidatesTokenCount": 73,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 207
+   }
+  ],
+  "totalTokenCount": 280,
+  "promptTokenCount": 207
+ },
+ "credits": 0.03,
+ "latency_ms": 6437,
+ "cached": false
+}

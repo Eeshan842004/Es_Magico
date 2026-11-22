@@ -1,0 +1,29 @@
+{
+ "conv_id": "T28",
+ "version": "v1",
+ "sample_idx": 3,
+ "text": "The customer wants to know the status and shipping address for his wife's missing order (LM-49344). The agent refused to share this information due to privacy policies, as he is not the account holder. Next, the wife needs to contact support directly using her registered email or phone number to get the details.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:08:37",
+ "usage": {
+  "candidatesTokenCount": 79,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 186
+   }
+  ],
+  "totalTokenCount": 265,
+  "promptTokenCount": 186
+ },
+ "credits": 0.03,
+ "latency_ms": 23138,
+ "cached": false
+}

@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+outputs/*.flag
+outputs/*.log
+plan.md
+summariser-starter.zip
+review_kit/
+*.zip

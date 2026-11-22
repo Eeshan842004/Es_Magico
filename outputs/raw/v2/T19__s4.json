@@ -1,0 +1,29 @@
+{
+ "conv_id": "T19",
+ "version": "v2",
+ "sample_idx": 4,
+ "text": "Issue: Customer requested to cancel Lumo Care due to cost.\nStatus: Subscription canceled, ending Dec 1 with no future charges; declined 50% retention offer.\nNext step: None required.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:55:26",
+ "usage": {
+  "candidatesTokenCount": 46,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 166
+   }
+  ],
+  "totalTokenCount": 212,
+  "promptTokenCount": 166
+ },
+ "credits": 0.02,
+ "latency_ms": 12213,
+ "cached": false
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T28",
+ "version": "v2",
+ "sample_idx": 2,
+ "text": "Issue: Non-account holder requested status and delivery address for order LM-49344.\nStatus: Unverified; order details withheld per privacy policy.\nNext step: Assist account holder with LM-49344 once she contacts support via her registered email or phone.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:12:16",
+ "usage": {
+  "candidatesTokenCount": 64,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 207
+   }
+  ],
+  "totalTokenCount": 271,
+  "promptTokenCount": 207
+ },
+ "credits": 0.02,
+ "latency_ms": 12028,
+ "cached": false
+}

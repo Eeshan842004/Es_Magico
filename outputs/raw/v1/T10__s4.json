@@ -1,0 +1,29 @@
+{
+ "conv_id": "T10",
+ "version": "v1",
+ "sample_idx": 4,
+ "text": "* **Customer's request:** The customer requested a return and refund for a 5-week-old hub because they do not like it.\n* **Actions taken:** The agent explained that the item is outside the 30-day return window and, since it is not faulty, declined the return. The customer acknowledged and accepted the decision.\n* **Next steps:** No further action is required; the case can be closed. (Note: The customer's account remains flagged internally for return abuse review.)",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:57:44",
+ "usage": {
+  "candidatesTokenCount": 117,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 184
+   }
+  ],
+  "totalTokenCount": 301,
+  "promptTokenCount": 184
+ },
+ "credits": 0.03,
+ "latency_ms": 13850,
+ "cached": false
+}

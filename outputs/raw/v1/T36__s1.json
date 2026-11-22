@@ -1,0 +1,29 @@
+{
+ "conv_id": "T36",
+ "version": "v1",
+ "sample_idx": 1,
+ "text": "The customer wanted the tracking number for their replacement unit. The agent provided the tracking number (LMT-7782-991-IN) for order LM-51620 and confirmed it will arrive in three days. No further action is needed unless the customer has delivery issues.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:55:50",
+ "usage": {
+  "candidatesTokenCount": 64,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 123
+   }
+  ],
+  "totalTokenCount": 187,
+  "promptTokenCount": 123
+ },
+ "credits": 0.02,
+ "latency_ms": 12440,
+ "cached": false
+}

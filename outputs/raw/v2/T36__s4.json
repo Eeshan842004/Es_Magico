@@ -1,0 +1,29 @@
+{
+ "conv_id": "T36",
+ "version": "v2",
+ "sample_idx": 4,
+ "text": "Issue: Customer requested tracking for replacement order LM-51620.\nStatus: Provided tracking number LMT-7782-991-IN (shipped today, 3-day delivery).\nNext step: None; customer acknowledged and resolved.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:58:29",
+ "usage": {
+  "candidatesTokenCount": 51,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 143
+   }
+  ],
+  "totalTokenCount": 194,
+  "promptTokenCount": 143
+ },
+ "credits": 0.02,
+ "latency_ms": 7902,
+ "cached": false
+}

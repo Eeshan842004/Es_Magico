@@ -1,0 +1,29 @@
+{
+ "conv_id": "syn_01",
+ "version": "v2",
+ "sample_idx": 0,
+ "text": "Issue: Order LM-53001 arrived with a dented box and scratched hub; customer requested a replacement.\nStatus: Waiting for customer to send damage photos.\nNext step: Review photos upon receipt and arrange replacement.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:02:42",
+ "usage": {
+  "candidatesTokenCount": 54,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 216
+   }
+  ],
+  "totalTokenCount": 270,
+  "promptTokenCount": 216
+ },
+ "credits": 0.02,
+ "latency_ms": 17095,
+ "cached": false
+}

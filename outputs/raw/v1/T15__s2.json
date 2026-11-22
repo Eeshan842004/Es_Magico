@@ -1,0 +1,29 @@
+{
+ "conv_id": "T15",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "The customer contacted support regarding a speaker (Order LM-48870) that arrived with a cracked cover and initially requested a refund. The previous agent mistakenly approved a ₹3,499 refund before retracting it upon noticing the unit appeared used, which violated the return policy. The customer reluctantly agreed to accept a free replacement cover instead. The next step is to process and ship the replacement cover to the customer.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:58:15",
+ "usage": {
+  "candidatesTokenCount": 109,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 208
+   }
+  ],
+  "totalTokenCount": 317,
+  "promptTokenCount": 208
+ },
+ "credits": 0.03,
+ "latency_ms": 18834,
+ "cached": false
+}

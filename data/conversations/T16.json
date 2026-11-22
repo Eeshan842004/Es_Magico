@@ -1,0 +1,30 @@
+{
+ "id": "T16",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "I ordered my camera on the 3rd, why hasn't it arrived?"
+  },
+  {
+   "role": "agent",
+   "text": "Our system shows the order was placed on 8 Nov."
+  },
+  {
+   "role": "customer",
+   "text": "No, I have the confirmation SMS from the 3rd."
+  },
+  {
+   "role": "agent",
+   "text": "Could you share a screenshot of the SMS?"
+  },
+  {
+   "role": "customer",
+   "text": "I'll find it later, I'm travelling."
+  },
+  {
+   "role": "agent",
+   "text": "No problem. Once you send it we'll investigate the date mismatch."
+  }
+ ]
+}

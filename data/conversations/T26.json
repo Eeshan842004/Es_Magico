@@ -1,0 +1,14 @@
+{
+ "id": "T26",
+ "channel": "email",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Hi team,\n\nMy order LM-50620 shows delivered but I have not received it.\n\nRegards,\nArjun Mehta\nSenior Manager, Operations\nSunrise Textiles Pvt Ltd\nPhone: 022-5551-0100 | www.sunrisetextiles.example\nThis email and any attachments are confidential and intended solely for the addressee. If you are not the intended recipient please delete it.\n\n> On 12 Nov, Lumo Support wrote:\n> Your order has been delivered.\n> Thanks for shopping with Lumo."
+  },
+  {
+   "role": "agent",
+   "text": "Hi Arjun, I've raised a delivery investigation with the courier. You'll hear back within 48 hours."
+  }
+ ]
+}

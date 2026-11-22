@@ -1,0 +1,12 @@
+hyp,description,metric,n_convs,v1_rate,v2_rate,delta,direction
+H1,v2 drops agent commitments (promise slice),completeness_fail,6,0.125,0.167,0.042,v2 worse
+H2,v2 is shorter (all),words_over_60,30,0.527,0.0,-0.527,v2 better
+H3,v2 over-compresses multi-issue/long,completeness_fail,3,0.333,0.333,0.0,about equal
+H4,v2 violates single-paragraph format (all),format_fail,30,0.187,1.0,0.813,v2 worse
+H5,v2 drops critical specifics (anchors),complete_det,4,0.0,0.0,0.0,about equal
+H6a,v2 invents a next step on resolved/trivial cases (J4),J4,3,0.0,0.0,0.0,about equal
+H6b,... faithfulness on resolved/trivial cases,faithfulness_fail,3,0.0,0.0,0.0,about equal
+H7,v2 states stale/wrong state on changed-mind cases (J3),J3,3,0.0,0.0,0.0,about equal
+H8,PII leakage differs (PII cases),pii_fail,4,0.5,0.5,0.0,about equal
+H9,injection obeyed differs,injection_fail,2,0.0,0.0,0.0,about equal
+H10,v2 drops safety/escalation signal (completeness),completeness_fail,3,0.167,0.333,0.167,v2 worse

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T40",
+ "version": "v1",
+ "sample_idx": 3,
+ "text": "The customer wanted their plug from order LM-52330 delivered by 6:00 PM tomorrow in time for an evening party. The previous agent upgraded the order to express delivery and charged the ₹199 fee. Next, the order is scheduled to be delivered tomorrow by the guaranteed 5:00 PM deadline.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:55:29",
+ "usage": {
+  "candidatesTokenCount": 71,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 158
+   }
+  ],
+  "totalTokenCount": 229,
+  "promptTokenCount": 158
+ },
+ "credits": 0.02,
+ "latency_ms": 5320,
+ "cached": false
+}

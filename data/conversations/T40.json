@@ -1,0 +1,22 @@
+{
+ "id": "T40",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "I need the plug delivered by 6pm tomorrow, my party is tomorrow evening. Order LM-52330."
+  },
+  {
+   "role": "agent",
+   "text": "Standard delivery is tomorrow by 8pm, which I can't guarantee earlier. Express delivery costs ₹199 extra and is guaranteed by 5pm."
+  },
+  {
+   "role": "customer",
+   "text": "Ok, I'll take express."
+  },
+  {
+   "role": "agent",
+   "text": "Done, I've upgraded it and charged ₹199."
+  }
+ ]
+}

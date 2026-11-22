@@ -1,0 +1,29 @@
+{
+ "conv_id": "T29",
+ "version": "v2",
+ "sample_idx": 4,
+ "text": "Issue: Order LM-52210 split into three shipments; customer needs the final 4 units by 21 Nov instead of 23 Nov.\nStatus: Agent offered to request courier expedition without guarantee.\nNext step: Request courier expedition for the last 4 units and update customer by tomorrow noon.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:10:31",
+ "usage": {
+  "candidatesTokenCount": 70,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 201
+   }
+  ],
+  "totalTokenCount": 271,
+  "promptTokenCount": 201
+ },
+ "credits": 0.02,
+ "latency_ms": 13244,
+ "cached": false
+}

@@ -1,0 +1,34 @@
+{
+ "id": "T02",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "My Lumo Hub won't pair with the app. Blinking orange light."
+  },
+  {
+   "role": "agent",
+   "text": "Please hold the reset button for 10 seconds and try again."
+  },
+  {
+   "role": "customer",
+   "text": "Done. Still orange."
+  },
+  {
+   "role": "agent",
+   "text": "Can you try a different phone and make sure you're on 2.4GHz Wi-Fi?"
+  },
+  {
+   "role": "customer",
+   "text": "Tried both. Nothing."
+  },
+  {
+   "role": "agent",
+   "text": "I'm escalating this to our technical team. They will call you back by Friday."
+  },
+  {
+   "role": "customer",
+   "text": "Fine, but I need this working for the weekend."
+  }
+ ]
+}

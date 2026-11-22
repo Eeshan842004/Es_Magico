@@ -1,0 +1,29 @@
+{
+ "conv_id": "T29",
+ "version": "v2",
+ "sample_idx": 0,
+ "text": "Issue: Order LM-52210 split into 3 shipments; customer needs all 12 Lumo Hubs by Nov 21, but 4 arrive Nov 23.\nStatus: 3 delivered, 5 arrive Nov 20, courier expedite needed for last 4.\nNext step: Request courier expedite on final 4 units and update customer by tomorrow at noon.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:03:03",
+ "usage": {
+  "candidatesTokenCount": 70,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 201
+   }
+  ],
+  "totalTokenCount": 271,
+  "promptTokenCount": 201
+ },
+ "credits": 0.02,
+ "latency_ms": 14195,
+ "cached": false
+}

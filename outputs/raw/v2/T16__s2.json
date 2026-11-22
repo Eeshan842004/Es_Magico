@@ -1,0 +1,29 @@
+{
+ "conv_id": "T16",
+ "version": "v2",
+ "sample_idx": 2,
+ "text": "Issue: Camera order date mismatch (customer claims 3 Nov; system shows 8 Nov) and delayed delivery.\nStatus: Waiting for customer to send SMS confirmation screenshot while travelling.\nNext step: Investigate order date discrepancy once screenshot is received.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:02:33",
+ "usage": {
+  "candidatesTokenCount": 65,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 184
+   }
+  ],
+  "totalTokenCount": 249,
+  "promptTokenCount": 184
+ },
+ "credits": 0.02,
+ "latency_ms": 5973,
+ "cached": false
+}

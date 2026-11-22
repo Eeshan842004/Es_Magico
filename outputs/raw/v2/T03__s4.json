@@ -1,0 +1,29 @@
+{
+ "conv_id": "T03",
+ "version": "v2",
+ "sample_idx": 4,
+ "text": "Issue: Customer requested phone support for a broken bulb.\nStatus: Callback agreed for tomorrow between 11:00 AM and 1:00 PM.\nNext step: Call Priya at +91 98765 43210 tomorrow between 11 and 1.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:59:32",
+ "usage": {
+  "candidatesTokenCount": 65,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 184
+   }
+  ],
+  "totalTokenCount": 249,
+  "promptTokenCount": 184
+ },
+ "credits": 0.02,
+ "latency_ms": 8960,
+ "cached": false
+}

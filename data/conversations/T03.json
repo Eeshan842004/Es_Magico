@@ -1,0 +1,18 @@
+{
+ "id": "T03",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "I'd rather talk on the phone. Can someone call me about my broken bulb? Number is +91 98765 43210, email priya.nair@example.com if needed."
+  },
+  {
+   "role": "agent",
+   "text": "Sure Priya, I'll arrange a callback tomorrow between 11 and 1."
+  },
+  {
+   "role": "customer",
+   "text": "Great, I'm free after 11."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T08",
+ "version": "v2",
+ "sample_idx": 1,
+ "text": "Issue: Smart plug (Order LM-47720) damaged customer's extension board; customer is angry over unanswered calls.\nStatus: Escalated to duty manager; customer declined ₹500 apology coupon.\nNext step: Duty manager to call customer within 24 hours.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:06:47",
+ "usage": {
+  "candidatesTokenCount": 61,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 225
+   }
+  ],
+  "totalTokenCount": 286,
+  "promptTokenCount": 225
+ },
+ "credits": 0.02,
+ "latency_ms": 8608,
+ "cached": false
+}

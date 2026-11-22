@@ -1,0 +1,29 @@
+{
+ "conv_id": "T22",
+ "version": "v2",
+ "sample_idx": 2,
+ "text": "Issue: Customer's third unresolved complaint regarding LM-45118; threatens consumer court and public exposure within 7 days.\nStatus: Escalated to compliance team.\nNext step: Compliance team to contact customer within 48 hours.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:08:58",
+ "usage": {
+  "candidatesTokenCount": 57,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 175
+   }
+  ],
+  "totalTokenCount": 232,
+  "promptTokenCount": 175
+ },
+ "credits": 0.02,
+ "latency_ms": 9517,
+ "cached": false
+}

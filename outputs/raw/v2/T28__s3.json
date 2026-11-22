@@ -1,0 +1,29 @@
+{
+ "conv_id": "T28",
+ "version": "v2",
+ "sample_idx": 3,
+ "text": "Issue: Third party requested delivery status and address for order LM-49344.\nStatus: Unresolved; declined to disclose details due to privacy policy.\nNext step: Await outreach from the account holder via registered email or phone.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:09:21",
+ "usage": {
+  "candidatesTokenCount": 58,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 207
+   }
+  ],
+  "totalTokenCount": 265,
+  "promptTokenCount": 207
+ },
+ "credits": 0.02,
+ "latency_ms": 7356,
+ "cached": false
+}

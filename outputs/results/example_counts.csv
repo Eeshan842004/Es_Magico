@@ -1,0 +1,8 @@
+conv_id,what,pattern,runs,v1,v2
+T27,adds a refund nobody mentioned,refund,5,0,4
+T07,says the photo was verified; the agent never said so,verified,5,0,5
+T30,calls the promise unauthorised; nobody said so,unauthori[sz],5,0,4
+T39,keeps the commitment to arrange the replacement,arrang|dispatch|ship|send,5,5,0
+T29,keeps the 'no guarantee' condition,guarantee,5,3,1
+T23,keeps 'away from flammable items',flammab,5,1,0
+T23,mentions safety,safety,5,5,5

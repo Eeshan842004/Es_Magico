@@ -1,0 +1,18 @@
+{
+ "id": "T43",
+ "channel": "email",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Please update our billing details. GSTIN 27AAAAA0000A1Z5, company Blue Orchid Interiors LLP, for future invoices."
+  },
+  {
+   "role": "agent",
+   "text": "Updated. All future invoices will carry that GSTIN. Past invoices cannot be changed."
+  },
+  {
+   "role": "customer",
+   "text": "Understood, thanks."
+  }
+ ]
+}

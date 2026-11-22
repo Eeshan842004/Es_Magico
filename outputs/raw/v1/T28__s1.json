@@ -1,0 +1,29 @@
+{
+ "conv_id": "T28",
+ "version": "v1",
+ "sample_idx": 1,
+ "text": "The customer is calling on behalf of his wife to check the delivery status and shipping address for order LM-49344. The agent explained that order details can only be shared directly with the account holder for privacy reasons, and advised that the wife contact support from her registered email or phone number. Next, the customer plans to have his wife reach out directly to get the information.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:59:43",
+ "usage": {
+  "candidatesTokenCount": 100,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 186
+   }
+  ],
+  "totalTokenCount": 286,
+  "promptTokenCount": 186
+ },
+ "credits": 0.03,
+ "latency_ms": 11275,
+ "cached": false
+}

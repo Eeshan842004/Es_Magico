@@ -1,0 +1,29 @@
+{
+ "conv_id": "T37",
+ "version": "v2",
+ "sample_idx": 4,
+ "text": "Issue: Broken lamp on order LM-49812.\nStatus: Customer is eligible for replacement; has not yet sent the required photo of the lamp base.\nNext step: Collect the photo from the customer and process the replacement.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:03:44",
+ "usage": {
+  "candidatesTokenCount": 54,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 178
+   }
+  ],
+  "totalTokenCount": 232,
+  "promptTokenCount": 178
+ },
+ "credits": 0.02,
+ "latency_ms": 5808,
+ "cached": false
+}

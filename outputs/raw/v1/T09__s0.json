@@ -1,0 +1,29 @@
+{
+ "conv_id": "T09",
+ "version": "v1",
+ "sample_idx": 0,
+ "text": "The customer wants help fixing or replacing their smart plug (Order LM-51310) because it unexpectedly turns off around 2:00 AM every night. So far, the agent verified no app schedules are active and advised the customer to run a firmware update, which the customer is currently installing. Next, the customer will monitor the plug tonight and follow up tomorrow, at which point a replacement will be issued if the problem persists.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:07:04",
+ "usage": {
+  "candidatesTokenCount": 108,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 188
+   }
+  ],
+  "totalTokenCount": 296,
+  "promptTokenCount": 188
+ },
+ "credits": 0.03,
+ "latency_ms": 10029,
+ "cached": false
+}

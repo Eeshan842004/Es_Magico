@@ -1,0 +1,29 @@
+{
+ "conv_id": "T32",
+ "version": "v1",
+ "sample_idx": 3,
+ "text": "The customer wants help getting their hub to connect after seeing \"Error 4012 device unreachable.\" So far, the agent noted they could not open the customer's attached screenshot and log file, identified the error as a lost connection, and instructed the customer to restart their router. Next, the customer is restarting their router and will report back on whether the hub reconnects.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:07:42",
+ "usage": {
+  "candidatesTokenCount": 97,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 168
+   }
+  ],
+  "totalTokenCount": 265,
+  "promptTokenCount": 168
+ },
+ "credits": 0.03,
+ "latency_ms": 6817,
+ "cached": false
+}

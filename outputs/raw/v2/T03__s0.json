@@ -1,0 +1,29 @@
+{
+ "conv_id": "T03",
+ "version": "v2",
+ "sample_idx": 0,
+ "text": "Issue: Broken bulb; customer prefers a phone call.\nStatus: Callback promised for tomorrow between 11:00 and 1:00.\nNext step: Call Priya Nair at +91 98765 43210 tomorrow after 11:00 AM (backup email: priya.nair@example.com).",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:55:33",
+ "usage": {
+  "candidatesTokenCount": 56,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 162
+   }
+  ],
+  "totalTokenCount": 218,
+  "promptTokenCount": 162
+ },
+ "credits": 0.02,
+ "latency_ms": 7026,
+ "cached": false
+}

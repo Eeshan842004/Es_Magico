@@ -1,0 +1,26 @@
+{
+ "id": "T32",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "The hub is not connecting, here's a screenshot: screenshot_2291.png and the app log log_20251118.txt"
+  },
+  {
+   "role": "agent",
+   "text": "I can't open attachments in this chat. Could you describe the error?"
+  },
+  {
+   "role": "customer",
+   "text": "It says 'Error 4012 device unreachable'."
+  },
+  {
+   "role": "agent",
+   "text": "That error means the hub lost its connection. Please restart your router and try again."
+  },
+  {
+   "role": "customer",
+   "text": "Will try now."
+  }
+ ]
+}

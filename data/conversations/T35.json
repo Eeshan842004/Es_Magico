@@ -1,0 +1,14 @@
+{
+ "id": "T35",
+ "channel": "email",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "I have been a Lumo customer since 2022 and I have never been so disappointed. First the hub died after 8 months. I sent it back and waited 3 weeks for the replacement, which then arrived with the wrong power adapter, a US-style one that doesn't fit any socket in my house. I called three times, was transferred every time, and had to repeat my story each time to someone new. On the second call I was told the adapter would be couriered within 48 hours. On the third call I was told there was no record of that promise. My neighbour has the same hub and hers works perfectly fine, which makes me wonder if I simply got a bad batch. I also spent two evenings reading your forum, trying every fix suggested, from resetting the router to changing channels to reinstalling the app, and none of it helped because the hub can't even power on with the adapter I was given. The packaging was nice, I'll give you that, but that's beside the point. I've recommended Lumo to at least six friends and colleagues over the years and now I feel embarrassed to have done so. My wife says I should just ask for a refund and move on, but I like the product when it works and I'd rather keep it. In short: please send me the correct power adapter for my replacement hub, order LM-46855, and tell me how to avoid this kind of thing in future, because I don't want to go through this again. I'd also like a written apology, not a template, from someone who has actually read this."
+  },
+  {
+   "role": "agent",
+   "text": "I'm sorry for everything you went through, and for the repeated transfers. I've dispatched the correct adapter today, tracking LMT-5521-014-IN. A personal written apology will follow by email from me. To avoid a repeat, I've added a note to your account so any agent can see the history without asking you to explain again."
+  }
+ ]
+}

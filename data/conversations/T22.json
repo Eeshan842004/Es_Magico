@@ -1,0 +1,18 @@
+{
+ "id": "T22",
+ "channel": "email",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "This is my third complaint about LM-45118. If this is not resolved in 7 days I will file a case in consumer court and post everything online."
+  },
+  {
+   "role": "agent",
+   "text": "I'm sorry for the repeated trouble. I've escalated your case to our compliance team, who will contact you within 48 hours."
+  },
+  {
+   "role": "customer",
+   "text": "We'll see."
+  }
+ ]
+}

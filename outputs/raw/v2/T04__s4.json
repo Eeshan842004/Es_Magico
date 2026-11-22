@@ -1,0 +1,29 @@
+{
+ "conv_id": "T04",
+ "version": "v2",
+ "sample_idx": 4,
+ "text": "Issue: Delivery address change requested for order LM-50177 prior to shipment.\nStatus: Updated to Flat 14B, Seaview Heights, 3rd Cross Road, Indiranagar, Bengaluru 560038 with no extra charge while in packing.\nNext step: None; monitor fulfillment to ensure dispatch to updated address.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:01:34",
+ "usage": {
+  "candidatesTokenCount": 72,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 171
+   }
+  ],
+  "totalTokenCount": 243,
+  "promptTokenCount": 171
+ },
+ "credits": 0.02,
+ "latency_ms": 11691,
+ "cached": false
+}

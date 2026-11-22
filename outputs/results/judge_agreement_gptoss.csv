@@ -1,0 +1,16 @@
+judge,set,criterion,name,n,label_fail,judge_fail,raw_agree_pct,kappa,ci_low,ci_high,tp,fn,fp,tn,recall_on_label_fail,precision_on_judge_fail,trust,note
+gptoss,heldout,J1,Faithfulness,60.0,5.0,15.0,83.3,0.429,0.127,0.702,5.0,0.0,10.0,45.0,1.0,0.333,"moderate: use with caution, human-review judge FAILs",
+gptoss,heldout,J2,Critical completeness,60.0,4.0,19.0,75.0,0.267,0.061,0.498,4.0,0.0,15.0,41.0,1.0,0.211,weak: do not use for decisions,
+gptoss,heldout,J3,Current state,60.0,0.0,2.0,96.7,0.0,0.0,0.0,0.0,0.0,2.0,58.0,,0.0,weak: do not use for decisions,
+gptoss,heldout,J4,Next step,60.0,4.0,8.0,86.7,0.268,-0.071,0.634,2.0,2.0,6.0,50.0,0.5,0.25,weak: do not use for decisions,
+gptoss,heldout,J5,Usefulness/noise,60.0,1.0,1.0,96.7,-0.017,-0.042,0.0,0.0,1.0,1.0,58.0,0.0,0.0,weak: do not use for decisions,
+gptoss,heldout,J6,Tone & safety,60.0,1.0,6.0,88.3,-0.029,-0.071,0.0,0.0,1.0,6.0,53.0,0.0,0.0,weak: do not use for decisions,
+gptoss,heldout,overall,"Overall (J1-4,J6)",60.0,9.0,31.0,63.3,0.283,0.121,0.462,9.0,0.0,22.0,29.0,1.0,0.29,weak: do not use for decisions,
+gptoss,calibration,,,,,,,,,,,,,,,,,none: the judge prompt was never tuned on labels
+gptoss,all,J1,Faithfulness,60.0,5.0,15.0,83.3,0.429,0.127,0.702,5.0,0.0,10.0,45.0,1.0,0.333,"moderate: use with caution, human-review judge FAILs",
+gptoss,all,J2,Critical completeness,60.0,4.0,19.0,75.0,0.267,0.061,0.498,4.0,0.0,15.0,41.0,1.0,0.211,weak: do not use for decisions,
+gptoss,all,J3,Current state,60.0,0.0,2.0,96.7,0.0,0.0,0.0,0.0,0.0,2.0,58.0,,0.0,weak: do not use for decisions,
+gptoss,all,J4,Next step,60.0,4.0,8.0,86.7,0.268,-0.071,0.634,2.0,2.0,6.0,50.0,0.5,0.25,weak: do not use for decisions,
+gptoss,all,J5,Usefulness/noise,60.0,1.0,1.0,96.7,-0.017,-0.042,0.0,0.0,1.0,1.0,58.0,0.0,0.0,weak: do not use for decisions,
+gptoss,all,J6,Tone & safety,60.0,1.0,6.0,88.3,-0.029,-0.071,0.0,0.0,1.0,6.0,53.0,0.0,0.0,weak: do not use for decisions,
+gptoss,all,overall,"Overall (J1-4,J6)",60.0,9.0,31.0,63.3,0.283,0.121,0.462,9.0,0.0,22.0,29.0,1.0,0.29,weak: do not use for decisions,

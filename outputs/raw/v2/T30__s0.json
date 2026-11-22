@@ -1,0 +1,29 @@
+{
+ "conv_id": "T30",
+ "version": "v2",
+ "sample_idx": 0,
+ "text": "Issue: Customer returning a speaker; previous agent unauthorizedly promised a double refund.\nStatus: Return initiated; awaiting item receipt and policy escalation.\nNext step: Review unauthorized double-refund promise and process refund per company policy upon return.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:55:29",
+ "usage": {
+  "candidatesTokenCount": 67,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 147
+   }
+  ],
+  "totalTokenCount": 214,
+  "promptTokenCount": 147
+ },
+ "credits": 0.02,
+ "latency_ms": 8491,
+ "cached": false
+}

@@ -1,0 +1,26 @@
+{
+ "id": "T23",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "My Lumo smart plug smells like burning and the casing is hot!!"
+  },
+  {
+   "role": "agent",
+   "text": "Please unplug it immediately and keep it away from flammable items."
+  },
+  {
+   "role": "customer",
+   "text": "Done. It's got a black mark on the socket."
+  },
+  {
+   "role": "agent",
+   "text": "Thank you. This is a safety issue, so I'm escalating to our product safety team. They'll contact you today, and we'll replace the unit and collect the old one for inspection."
+  },
+  {
+   "role": "customer",
+   "text": "Ok. Please hurry, I'm worried about my wiring."
+  }
+ ]
+}

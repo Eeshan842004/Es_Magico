@@ -1,0 +1,29 @@
+{
+ "conv_id": "T34",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "The customer wants to reset the password for their account. The previous agent verified the customer's identity using a one-time password and sent a password reset link to their email. Next, the customer needs to complete the password reset using the link within 15 minutes, or request a new link if it expires.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:59:56",
+ "usage": {
+  "candidatesTokenCount": 78,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 152
+   }
+  ],
+  "totalTokenCount": 230,
+  "promptTokenCount": 152
+ },
+ "credits": 0.02,
+ "latency_ms": 6918,
+ "cached": false
+}

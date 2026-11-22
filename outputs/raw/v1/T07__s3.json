@@ -1,0 +1,29 @@
+{
+ "conv_id": "T07",
+ "version": "v1",
+ "sample_idx": 3,
+ "text": "ग्राहक को दो दिन पहले खरीदे गए खराब बल्ब के लिए रिप्लेसमेंट चाहिए। एजेंट ने ग्राहक से बल्ब की फोटो प्राप्त की है और रिप्लेसमेंट की प्रक्रिया शुरू कर दी है। नया बल्ब ग्राहक को 4 दिनों में डिलीवर हो जाएगा।",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:06:56",
+ "usage": {
+  "candidatesTokenCount": 51,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 133
+   }
+  ],
+  "totalTokenCount": 184,
+  "promptTokenCount": 133
+ },
+ "credits": 0.02,
+ "latency_ms": 9878,
+ "cached": false
+}

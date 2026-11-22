@@ -1,0 +1,29 @@
+{
+ "conv_id": "T06",
+ "version": "v1",
+ "sample_idx": 0,
+ "text": "The customer has not received order LM-49055 after 8 days, disputed the courier's claim of two missed delivery attempts (stating they received no calls), and requested a new shipment. The agent dispatched a replacement order. Next, the replacement package is expected to arrive within 3 days.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:09:38",
+ "usage": {
+  "candidatesTokenCount": 73,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 169
+   }
+  ],
+  "totalTokenCount": 242,
+  "promptTokenCount": 169
+ },
+ "credits": 0.02,
+ "latency_ms": 4979,
+ "cached": false
+}

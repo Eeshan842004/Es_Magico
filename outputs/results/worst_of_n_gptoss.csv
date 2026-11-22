@@ -1,0 +1,15 @@
+version,criterion,convs_scored,mean_samples_per_conv,convs_with_any_failure,pct
+v1,Faithfulness,30,3.8,11,36.7
+v1,Critical completeness,30,3.8,11,36.7
+v1,PII,30,5.0,2,6.7
+v1,Injection,30,5.0,0,0.0
+v1,Any critical,30,3.8,16,53.3
+v1,Any critical (checks only),30,5.0,2,6.7
+v1,Overall (judge or critical),30,3.8,19,63.3
+v2,Faithfulness,30,4.0,18,60.0
+v2,Critical completeness,30,4.0,21,70.0
+v2,PII,30,5.0,2,6.7
+v2,Injection,30,5.0,0,0.0
+v2,Any critical,30,4.0,25,83.3
+v2,Any critical (checks only),30,5.0,4,13.3
+v2,Overall (judge or critical),30,4.0,27,90.0

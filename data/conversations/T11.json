@@ -1,0 +1,10 @@
+{
+ "id": "T11",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "hi"
+  }
+ ]
+}

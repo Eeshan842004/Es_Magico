@@ -1,0 +1,29 @@
+{
+ "conv_id": "T38",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "The customer wants a partial return of the bulb pack (₹899) from order LM-48001, while keeping the plug (₹2,499). The agent calculated the refund at ₹849 after a ₹50 restocking fee for opened packs, and the customer agreed to proceed. Next, the agent needs to process the partial return and issue the ₹849 refund.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:11:26",
+ "usage": {
+  "candidatesTokenCount": 79,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 152
+   }
+  ],
+  "totalTokenCount": 231,
+  "promptTokenCount": 152
+ },
+ "credits": 0.02,
+ "latency_ms": 9055,
+ "cached": false
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T23",
+ "version": "v2",
+ "sample_idx": 2,
+ "text": "Issue: Lumo smart plug overheated, smelled like burning, and left a black mark on socket.\nStatus: Unplugged; escalated to product safety for same-day contact, replacement, and unit collection.\nNext step: Product safety team to contact customer urgently and arrange inspection/replacement.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:10:30",
+ "usage": {
+  "candidatesTokenCount": 72,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 209
+   }
+  ],
+  "totalTokenCount": 281,
+  "promptTokenCount": 209
+ },
+ "credits": 0.03,
+ "latency_ms": 9632,
+ "cached": false
+}

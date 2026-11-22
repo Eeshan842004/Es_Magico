@@ -1,0 +1,26 @@
+{
+ "id": "T41",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "you people are useless, I'll destroy your Google reviews if you don't fix this"
+  },
+  {
+   "role": "agent",
+   "text": "I'm sorry you feel this way. How can I help?"
+  },
+  {
+   "role": "customer",
+   "text": "Lamp stopped working after a week. Order LM-48199."
+  },
+  {
+   "role": "agent",
+   "text": "I'll arrange a replacement."
+  },
+  {
+   "role": "customer",
+   "text": "Finally. Fine."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T02",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "The customer wants help pairing their Lumo Hub with the app, as it is stuck showing a blinking orange light. So far, the customer has tried holding the reset button for 10 seconds, using a different phone, and ensuring they are on a 2.4GHz Wi-Fi network, none of which resolved the issue. Next, the technical team needs to call the customer back by Friday so the hub is working before the weekend.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:07:09",
+ "usage": {
+  "candidatesTokenCount": 100,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 182
+   }
+  ],
+  "totalTokenCount": 282,
+  "promptTokenCount": 182
+ },
+ "credits": 0.03,
+ "latency_ms": 6909,
+ "cached": false
+}

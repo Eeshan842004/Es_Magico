@@ -1,0 +1,26 @@
+{
+ "id": "T08",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "This is absolute garbage service. Your damn smart plug fried my extension board and nobody answers my calls."
+  },
+  {
+   "role": "agent",
+   "text": "I'm very sorry. Could you tell me your order number?"
+  },
+  {
+   "role": "customer",
+   "text": "LM-47720. And get me your manager NOW. This is f***ing ridiculous."
+  },
+  {
+   "role": "agent",
+   "text": "I understand your frustration. I can't transfer you right now but I've flagged this to our duty manager, who will call within 24 hours. I can also offer a ₹500 coupon as an apology."
+  },
+  {
+   "role": "customer",
+   "text": "Keep the coupon. Just make sure the manager calls."
+  }
+ ]
+}

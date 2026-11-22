@@ -1,0 +1,34 @@
+{
+ "id": "T18",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "I need my replacement bulb pack delivered before 21 Nov, it's for my sister's wedding on the 22nd."
+  },
+  {
+   "role": "agent",
+   "text": "I'll do my best. Which order?"
+  },
+  {
+   "role": "customer",
+   "text": "LM-52004. Anyway, how's your day going? Been crazy hot here."
+  },
+  {
+   "role": "agent",
+   "text": "Ha, busy but good. Let me look."
+  },
+  {
+   "role": "customer",
+   "text": "Take your time. The wedding is in Jaipur, huge family, you know how it is."
+  },
+  {
+   "role": "agent",
+   "text": "Sounds lovely! The pack is currently in Delhi and can reach Jaipur by 20 Nov."
+  },
+  {
+   "role": "customer",
+   "text": "Amazing. Thank you so much!"
+  }
+ ]
+}

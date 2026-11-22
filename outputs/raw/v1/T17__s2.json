@@ -1,0 +1,29 @@
+{
+ "conv_id": "T17",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "**What the customer wants:** \nThe customer is following up on warranty claim WC-3391 for an unresponsive Lumo Hub. They wanted an immediate resolution after experiencing delays and an unreturned callback, confirmation on how to preserve their custom automations, and a physical pickup slip during the exchange.\n\n**What has been done so far:** \nThe service centre confirmed the unit cannot be repaired and approved a free warranty replacement. The previous agent apologized for the backlog and the missed callback on 5 November, logged the complaint on the claim, and confirmed that automations will transfer automatically via the customer's Lumo account. \n\n**What happens next:** \nA courier is scheduled for 22 November between 2:00 PM and 5:00 PM to deliver the replacement hub and collect the faulty unit. Make sure the courier booking includes the requested pickup slip so the customer has proof of collection. Once the customer receives the new hub, they will log into their Lumo account and re-pair their devices.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:10:17",
+ "usage": {
+  "candidatesTokenCount": 255,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 575
+   }
+  ],
+  "totalTokenCount": 830,
+  "promptTokenCount": 575
+ },
+ "credits": 0.08,
+ "latency_ms": 7745,
+ "cached": false
+}

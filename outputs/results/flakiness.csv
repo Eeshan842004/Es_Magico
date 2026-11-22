@@ -1,0 +1,9 @@
+version,outcome,convs_with_2plus_samples,flaky_convs,pct
+v1,overall verdict,24,3,12.5
+v1,critical verdict,24,3,12.5
+v1,critical (checks only),30,0,0.0
+v1,format (R2),30,8,26.7
+v2,overall verdict,28,9,32.1
+v2,critical verdict,28,9,32.1
+v2,critical (checks only),30,2,6.7
+v2,format (R2),30,0,0.0

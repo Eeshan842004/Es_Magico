@@ -1,0 +1,29 @@
+{
+ "conv_id": "T05",
+ "version": "v1",
+ "sample_idx": 3,
+ "text": "The customer wants a refund for a duplicate charge of ₹1,299 on their card ending in 4417 from 12 Nov. \n\nSo far, the previous agent confirmed the duplicate charge and raised a reversal with the payment partner under reference RV-220918, advising a 3–5 working day bank turnaround. \n\nNext, the customer is waiting for the funds to credit and plans to file a chargeback dispute with their bank if the refund does not arrive by the 20th.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:08:03",
+ "usage": {
+  "candidatesTokenCount": 109,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 170
+   }
+  ],
+  "totalTokenCount": 279,
+  "promptTokenCount": 170
+ },
+ "credits": 0.03,
+ "latency_ms": 17700,
+ "cached": false
+}

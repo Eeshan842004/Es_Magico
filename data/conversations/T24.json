@@ -1,0 +1,26 @@
+{
+ "id": "T24",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "deliveri date for LM-51877??"
+  },
+  {
+   "role": "agent",
+   "text": "Expected 19 Nov."
+  },
+  {
+   "role": "customer",
+   "text": "kal tak aa jayega na? bahut zaroori hai"
+  },
+  {
+   "role": "agent",
+   "text": "Haan, courier ne bola hai kal shaam tak."
+  },
+  {
+   "role": "customer",
+   "text": "Ok bhai thanks"
+  }
+ ]
+}

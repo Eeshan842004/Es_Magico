@@ -1,0 +1,18 @@
+{
+ "id": "T45",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Can you tell me if the Lumo hub works with Alexa?"
+  },
+  {
+   "role": "agent",
+   "text": "Yes, it supports Alexa and Google Home. Setup steps are in the app under Integrations."
+  },
+  {
+   "role": "customer",
+   "text": "Great, thanks!"
+  }
+ ]
+}

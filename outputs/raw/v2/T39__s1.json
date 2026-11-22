@@ -1,0 +1,29 @@
+{
+ "conv_id": "T39",
+ "version": "v2",
+ "sample_idx": 1,
+ "text": "Issue: Refund issued in error instead of replacement hub; customer asks if they keep refund.  \nStatus: Awaiting supervisor confirmation.  \nNext step: Follow up with customer tomorrow after supervisor review.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:02:07",
+ "usage": {
+  "candidatesTokenCount": 52,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 192
+   }
+  ],
+  "totalTokenCount": 244,
+  "promptTokenCount": 192
+ },
+ "credits": 0.02,
+ "latency_ms": 116343,
+ "cached": false
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T02",
+ "version": "v2",
+ "sample_idx": 3,
+ "text": "Issue: Lumo Hub won't pair with app (blinking orange light).\nStatus: Reset, alternate phone, and 2.4GHz Wi-Fi check failed.\nNext step: Technical team to call back by Friday; urgent before weekend.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:08:16",
+ "usage": {
+  "candidatesTokenCount": 49,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 202
+   }
+  ],
+  "totalTokenCount": 251,
+  "promptTokenCount": 202
+ },
+ "credits": 0.02,
+ "latency_ms": 12801,
+ "cached": false
+}

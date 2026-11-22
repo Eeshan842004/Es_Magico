@@ -1,0 +1,26 @@
+{
+ "id": "T38",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "I bought a plug (₹2,499) and a bulb pack (₹899) on the same order, LM-48001. I want to return the bulbs only."
+  },
+  {
+   "role": "agent",
+   "text": "Sure. Bulb pack refund is ₹899, minus a ₹50 restocking fee, so ₹849."
+  },
+  {
+   "role": "customer",
+   "text": "Why a fee?"
+  },
+  {
+   "role": "agent",
+   "text": "It applies to opened packs under our policy."
+  },
+  {
+   "role": "customer",
+   "text": "Ok, go ahead."
+  }
+ ]
+}

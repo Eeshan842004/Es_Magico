@@ -1,0 +1,29 @@
+{
+ "conv_id": "T17",
+ "version": "v2",
+ "sample_idx": 2,
+ "text": "Issue: Unrepairable Lumo Hub (WC-3391) after delayed service/missed callback.\nStatus: Free warranty replacement swap booked for 22 Nov, 2–5 PM.\nNext step: Ensure courier brings a pickup slip and monitor swap completion.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:59:53",
+ "usage": {
+  "candidatesTokenCount": 55,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 595
+   }
+  ],
+  "totalTokenCount": 650,
+  "promptTokenCount": 595
+ },
+ "credits": 0.04,
+ "latency_ms": 36954,
+ "cached": false
+}

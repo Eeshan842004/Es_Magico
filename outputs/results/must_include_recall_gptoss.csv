@@ -1,0 +1,5 @@
+critical,version,facts_scored,pct_present,pct_present_or_partial
+False,v1,58,70.7,82.8
+False,v2,64,56.2,62.5
+True,v1,293,88.7,96.2
+True,v2,311,74.6,90.4

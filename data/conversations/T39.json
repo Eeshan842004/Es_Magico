@@ -1,0 +1,26 @@
+{
+ "id": "T39",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "I did NOT receive the replacement hub. I never asked for a refund, I asked for a replacement."
+  },
+  {
+   "role": "agent",
+   "text": "I'm sorry for the confusion. I see a refund was issued in error. I'll arrange the replacement and reverse nothing on your side."
+  },
+  {
+   "role": "customer",
+   "text": "So I keep the refund AND get the hub?"
+  },
+  {
+   "role": "agent",
+   "text": "Let me confirm with my supervisor and come back to you tomorrow."
+  },
+  {
+   "role": "customer",
+   "text": "Fine."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T29",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "The customer is missing 9 of 12 Lumo Hubs from order LM-52210 and needs all units delivered by November 21 for an office installation. So far, the agent confirmed that the remaining units are split into two shipments arriving November 20 (5 units) and November 23 (4 units), and offered to request courier expediting without a guarantee. Next, the agent needs to contact the courier to expedite the final 4 units and update the customer by tomorrow at noon.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:01:41",
+ "usage": {
+  "candidatesTokenCount": 115,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 180
+   }
+  ],
+  "totalTokenCount": 295,
+  "promptTokenCount": 180
+ },
+ "credits": 0.03,
+ "latency_ms": 6986,
+ "cached": false
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T10",
+ "version": "v2",
+ "sample_idx": 4,
+ "text": "Issue: Customer requested a non-defective return for a 5-week-old hub.\nStatus: Denied (past 30-day return window); account flagged internally for 4 returns in 90 days (do not disclose).\nNext step: None unless customer follows up.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:06:03",
+ "usage": {
+  "candidatesTokenCount": 58,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 204
+   }
+  ],
+  "totalTokenCount": 262,
+  "promptTokenCount": 204
+ },
+ "credits": 0.02,
+ "latency_ms": 18549,
+ "cached": false
+}

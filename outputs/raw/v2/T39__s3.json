@@ -1,0 +1,29 @@
+{
+ "conv_id": "T39",
+ "version": "v2",
+ "sample_idx": 3,
+ "text": "Issue: Customer never received a replacement hub; a refund was issued in error instead.\nStatus: Customer asked to keep the refund and still receive the replacement; escalated to supervisor.\nNext step: Confirm with supervisor and follow up with customer tomorrow.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:58:56",
+ "usage": {
+  "candidatesTokenCount": 66,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 192
+   }
+  ],
+  "totalTokenCount": 258,
+  "promptTokenCount": 192
+ },
+ "credits": 0.02,
+ "latency_ms": 9772,
+ "cached": false
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T07",
+ "version": "v2",
+ "sample_idx": 3,
+ "text": "Issue: Bulb purchased 2 days ago is not working.\nStatus: Photo verified; replacement bulb dispatched with a 4-day delivery estimate.\nNext step: Monitor delivery and confirm customer receipt after 4 days.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:56:52",
+ "usage": {
+  "candidatesTokenCount": 51,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 153
+   }
+  ],
+  "totalTokenCount": 204,
+  "promptTokenCount": 153
+ },
+ "credits": 0.02,
+ "latency_ms": 7498,
+ "cached": false
+}

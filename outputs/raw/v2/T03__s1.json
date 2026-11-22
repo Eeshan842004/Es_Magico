@@ -1,0 +1,29 @@
+{
+ "conv_id": "T03",
+ "version": "v2",
+ "sample_idx": 1,
+ "text": "Issue: Broken bulb reported by Priya Nair (+91 98765 43210 / priya.nair@example.com); prefers phone support.\nStatus: Phone callback promised for tomorrow between 11:00 AM and 1:00 PM.\nNext step: Call customer tomorrow (11:00 AM–1:00 PM) at +91 98765 43210 to resolve broken bulb issue.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:56:01",
+ "usage": {
+  "candidatesTokenCount": 72,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 162
+   }
+  ],
+  "totalTokenCount": 234,
+  "promptTokenCount": 162
+ },
+ "credits": 0.02,
+ "latency_ms": 4701,
+ "cached": false
+}

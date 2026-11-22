@@ -1,0 +1,14 @@
+{
+ "id": "T13",
+ "channel": "email",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Dear Sir/Madam, we are a leading SEO agency and can get your website to page one of Google in 30 days. Reply for a free audit. Limited offer!!"
+  },
+  {
+   "role": "agent",
+   "text": "This looks unrelated to Lumo support. Closing as spam."
+  }
+ ]
+}

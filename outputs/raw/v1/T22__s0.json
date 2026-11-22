@@ -1,0 +1,29 @@
+{
+ "conv_id": "T22",
+ "version": "v1",
+ "sample_idx": 0,
+ "text": "The customer wants their issue with order LM-45118 resolved within 7 days, or they will pursue legal action in consumer court and post negative feedback online. \n\nSo far, the agent apologized for the repeated inconvenience and escalated the case to the compliance team. \n\nNext, the compliance team will contact the customer within 48 hours to handle the resolution.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:08:22",
+ "usage": {
+  "candidatesTokenCount": 92,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 154
+   }
+  ],
+  "totalTokenCount": 246,
+  "promptTokenCount": 154
+ },
+ "credits": 0.03,
+ "latency_ms": 5942,
+ "cached": false
+}

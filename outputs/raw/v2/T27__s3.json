@@ -1,0 +1,29 @@
+{
+ "conv_id": "T27",
+ "version": "v2",
+ "sample_idx": 3,
+ "text": "Issue: Defective smart lamp return (Order LM-50911).\nStatus: Pickup scheduled for tomorrow evening.\nNext step: Process refund/replacement once item is collected.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:02:53",
+ "usage": {
+  "candidatesTokenCount": 41,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 193
+   }
+  ],
+  "totalTokenCount": 234,
+  "promptTokenCount": 193
+ },
+ "credits": 0.02,
+ "latency_ms": 15126,
+ "cached": false
+}

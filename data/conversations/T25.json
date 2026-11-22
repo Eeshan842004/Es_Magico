@@ -1,0 +1,26 @@
+{
+ "id": "T25",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "pls refnd asap ordr lm-51002 dmgd on arrival 😡"
+  },
+  {
+   "role": "agent",
+   "text": "Sorry about that! Can you send a photo of the damage?"
+  },
+  {
+   "role": "customer",
+   "text": "sent"
+  },
+  {
+   "role": "agent",
+   "text": "Thanks. Refund of ₹2,199 approved, it will reach you in 5-7 days."
+  },
+  {
+   "role": "customer",
+   "text": "ty"
+  }
+ ]
+}

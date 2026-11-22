@@ -1,0 +1,29 @@
+{
+ "conv_id": "T35",
+ "version": "v1",
+ "sample_idx": 1,
+ "text": "**What the customer wants:** \nThe customer wants the correct power adapter for their replacement hub (order LM-46855) after receiving a US-style plug that does not fit their outlets. They also want advice on how to avoid similar support issues in the future and a personalized, non-templated written apology.\n\n**What has been done so far:** \nThe agent dispatched the correct power adapter (tracking LMT-5521-014-IN) and added a detailed note to the customer's account so they will not have to repeat their history on future contacts.\n\n**What happens next:** \nThe agent will send a personal written apology to the customer via email, and the customer awaits delivery of the replacement adapter.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:56:27",
+ "usage": {
+  "candidatesTokenCount": 174,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 529
+   }
+  ],
+  "totalTokenCount": 703,
+  "promptTokenCount": 529
+ },
+ "credits": 0.06,
+ "latency_ms": 6882,
+ "cached": false
+}

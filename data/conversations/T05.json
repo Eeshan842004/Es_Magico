@@ -1,0 +1,22 @@
+{
+ "id": "T05",
+ "channel": "email",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "I was charged twice for the same order. ₹1,299 on my card ending 4417, two entries on 12 Nov."
+  },
+  {
+   "role": "agent",
+   "text": "Thank you for flagging. I can confirm a duplicate charge. I've raised a reversal with the payment partner."
+  },
+  {
+   "role": "agent",
+   "text": "Reference RV-220918. The bank usually credits it in 3-5 working days."
+  },
+  {
+   "role": "customer",
+   "text": "If it isn't back by the 20th I'll dispute it with my bank."
+  }
+ ]
+}

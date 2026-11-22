@@ -1,0 +1,26 @@
+{
+ "id": "T31",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Can you change the date on my invoice to 1 Oct? I need it for my tax filing."
+  },
+  {
+   "role": "agent",
+   "text": "I'm sorry, invoices can't be backdated, they carry the date of the sale."
+  },
+  {
+   "role": "customer",
+   "text": "Even for a small change?"
+  },
+  {
+   "role": "agent",
+   "text": "Even then. If you need a different document for filing, finance can provide a payment confirmation letter."
+  },
+  {
+   "role": "customer",
+   "text": "Ok, please do that."
+  }
+ ]
+}

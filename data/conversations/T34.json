@@ -1,0 +1,26 @@
+{
+ "id": "T34",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "I need to reset the password for my account."
+  },
+  {
+   "role": "agent",
+   "text": "Sure. I've sent an OTP to your registered number. Please share it so I can verify you."
+  },
+  {
+   "role": "customer",
+   "text": "The OTP is 482913."
+  },
+  {
+   "role": "agent",
+   "text": "Verified. I've sent the reset link to your email. Please use it within 15 minutes."
+  },
+  {
+   "role": "customer",
+   "text": "Got it, thanks!"
+  }
+ ]
+}

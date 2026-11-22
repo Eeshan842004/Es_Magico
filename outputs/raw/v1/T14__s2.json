@@ -1,0 +1,29 @@
+{
+ "conv_id": "T14",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "The customer requested three things: a corrected GST amount on the invoice for order LM-46002, cancellation of their Lumo Care subscription, and troubleshooting for a bedroom hub that disconnects every few hours. \n\nSo far, the agent has cancelled the Lumo Care subscription (effective 30 Nov), requested a reissued invoice from finance, collected the hub's firmware version (2.3.1), and escalated the disconnection issue to the technical team.\n\nNext, finance needs to send the corrected invoice within two days, and the technical team needs to follow up with a resolution for the disconnecting hub.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:09:08",
+ "usage": {
+  "candidatesTokenCount": 150,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 215
+   }
+  ],
+  "totalTokenCount": 365,
+  "promptTokenCount": 215
+ },
+ "credits": 0.04,
+ "latency_ms": 7177,
+ "cached": false
+}

@@ -1,0 +1,30 @@
+{
+ "id": "T44",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "My plug is offline again."
+  },
+  {
+   "role": "agent",
+   "text": "Sorry. Can you restart it?"
+  },
+  {
+   "role": "customer",
+   "text": "I did that already last time, and the time before. This is the third time I'm asking."
+  },
+  {
+   "role": "agent",
+   "text": "I see the earlier chats. Since this keeps happening I'll replace it."
+  },
+  {
+   "role": "customer",
+   "text": "Please. I don't want to explain this again."
+  },
+  {
+   "role": "agent",
+   "text": "No need. Replacement ordered, it will arrive in 4 days and I've noted the history on your account."
+  }
+ ]
+}

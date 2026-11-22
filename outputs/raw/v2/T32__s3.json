@@ -1,0 +1,29 @@
+{
+ "conv_id": "T32",
+ "version": "v2",
+ "sample_idx": 3,
+ "text": "Issue: Hub not connecting; displaying \"Error 4012 device unreachable\".\nStatus: Customer was advised to restart their router and is currently testing it.\nNext step: Confirm if the router restart resolved the connection; escalate if Error 4012 persists.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:56:38",
+ "usage": {
+  "candidatesTokenCount": 63,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 188
+   }
+  ],
+  "totalTokenCount": 251,
+  "promptTokenCount": 188
+ },
+ "credits": 0.02,
+ "latency_ms": 5791,
+ "cached": false
+}

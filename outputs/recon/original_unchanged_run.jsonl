@@ -1,0 +1,15 @@
+{"id": "T01", "prompt": "v1", "run": 0, "summary": "**Customer issue:** The customer wanted a refund because their order (LM-48213) was delayed. \n\n**Action taken:** The agent confirmed the order was stuck in transit and initiated a ₹4,999 refund to the original payment method. \n\n**Next steps:** The customer will receive the refund in 5-7 working days. No further action is needed."}
+{"id": "T01", "prompt": "v2", "run": 0, "summary": "Issue: Order LM-48213 delayed.\nStatus: ₹4,999 refund initiated.\nNext step: No action required; refund processing."}
+{"id": "T09", "prompt": "v1", "run": 0, "summary": "**Summary:**\n\n*   **What the customer wants:** To fix a smart plug (Order LM-51310) that randomly turns off around 2 am. \n*   **What has been done:** The agent confirmed no app schedules are active and instructed the customer to perform a firmware update. \n*   **What happens next:** The customer is updating the firmware and will monitor the plug overnight. If the issue continues, the device needs to be replaced."}
+{"id": "T09", "prompt": "v2", "run": 0, "summary": "Issue: Smart plug (Order LM-51310) turns off at 2 am.\nStatus: Customer updating firmware to test overnight.\nNext step: Replace plug if the issue persists tomorrow."}
+{"id": "T15", "prompt": "v1", "run": 0, "summary": "**Customer Request:** The customer wanted a refund for a cracked speaker cover on Order LM-48870. \n\n**What has been done:** The agent mistakenly approved the refund at first, but had to deny it because the item was used. The agent offered a free replacement cover instead, and the customer accepted it. \n\n**What happens next:** A free replacement cover needs to be shipped to the customer."}
+Traceback (most recent call last):
+  File "E:\antigravity\internship_ES_MAGICO\starter\summariser\summarise.py", line 120, in <module>
+    main()
+  File "E:\antigravity\internship_ES_MAGICO\starter\summariser\summarise.py", line 114, in main
+    out = summarise(t, a.prompt, a.temperature)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\antigravity\internship_ES_MAGICO\starter\summariser\summarise.py", line 84, in summarise
+    return json.load(r)["choices"][0]["message"]["content"].strip()
+           ~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: 'choices'

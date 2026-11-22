@@ -1,0 +1,29 @@
+{
+ "conv_id": "T08",
+ "version": "v1",
+ "sample_idx": 0,
+ "text": "The customer wants to speak directly with a manager because their smart plug (Order LM-47720) damaged their extension board and their previous calls went unanswered. So far, the agent collected the order number, offered a ₹500 apology coupon (which the customer declined), and flagged the issue for the duty manager. Next, the duty manager needs to call the customer within 24 hours.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:56:20",
+ "usage": {
+  "candidatesTokenCount": 96,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 205
+   }
+  ],
+  "totalTokenCount": 301,
+  "promptTokenCount": 205
+ },
+ "credits": 0.03,
+ "latency_ms": 6043,
+ "cached": false
+}

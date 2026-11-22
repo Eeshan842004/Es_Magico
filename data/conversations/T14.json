@@ -1,0 +1,22 @@
+{
+ "id": "T14",
+ "channel": "email",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Three things. 1) My invoice for LM-46002 shows the wrong GST amount. 2) Please cancel my Lumo Care subscription. 3) The hub in my bedroom still disconnects every few hours."
+  },
+  {
+   "role": "agent",
+   "text": "1) I'll ask finance to reissue the invoice, you'll get it within 2 days. 2) I can cancel Lumo Care effective end of this billing cycle, 30 Nov. 3) Please send the firmware version shown in the app."
+  },
+  {
+   "role": "customer",
+   "text": "Firmware is 2.3.1. Cancel is fine."
+  },
+  {
+   "role": "agent",
+   "text": "Thanks. I've cancelled the subscription for 30 Nov and passed the firmware version to the technical team."
+  }
+ ]
+}

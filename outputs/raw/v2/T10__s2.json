@@ -1,0 +1,29 @@
+{
+ "conv_id": "T10",
+ "version": "v2",
+ "sample_idx": 2,
+ "text": "Issue: Customer wants to return a working 5-week-old hub.\nStatus: Return declined (past 30-day window; account flagged for 4 returns in 90 days). Customer accepted.\nNext step: None; close ticket unless customer replies.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:10:16",
+ "usage": {
+  "candidatesTokenCount": 55,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 204
+   }
+  ],
+  "totalTokenCount": 259,
+  "promptTokenCount": 204
+ },
+ "credits": 0.02,
+ "latency_ms": 11871,
+ "cached": false
+}

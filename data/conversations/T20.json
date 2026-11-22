@@ -1,0 +1,26 @@
+{
+ "id": "T20",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "What's the difference between monthly and yearly Lumo Care?"
+  },
+  {
+   "role": "agent",
+   "text": "Monthly is ₹149 per month, yearly is ₹1,499 per year, which works out to about ₹125 a month."
+  },
+  {
+   "role": "customer",
+   "text": "And does either include accidental damage?"
+  },
+  {
+   "role": "agent",
+   "text": "Only the yearly plan includes accidental damage cover, up to ₹5,000 per claim."
+  },
+  {
+   "role": "customer",
+   "text": "I'll think about it and come back."
+  }
+ ]
+}

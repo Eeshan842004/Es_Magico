@@ -1,0 +1,22 @@
+{
+ "id": "T30",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "If I return the speaker will you refund me double for the trouble?"
+  },
+  {
+   "role": "agent",
+   "text": "Yes, absolutely, we'll refund double."
+  },
+  {
+   "role": "customer",
+   "text": "Great, return initiated then."
+  },
+  {
+   "role": "agent",
+   "text": "Great, I'll note it down."
+  }
+ ]
+}

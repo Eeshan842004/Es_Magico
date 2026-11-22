@@ -1,0 +1,30 @@
+{
+ "id": "T19",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "I want to cancel Lumo Care."
+  },
+  {
+   "role": "agent",
+   "text": "Sorry to see you go. Can I ask why?"
+  },
+  {
+   "role": "customer",
+   "text": "Too expensive."
+  },
+  {
+   "role": "agent",
+   "text": "I can offer 3 months at 50% off if you stay."
+  },
+  {
+   "role": "customer",
+   "text": "No thanks, cancel it."
+  },
+  {
+   "role": "agent",
+   "text": "Done. Your subscription will end on 1 Dec and you won't be charged again."
+  }
+ ]
+}

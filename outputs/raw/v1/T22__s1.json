@@ -1,0 +1,29 @@
+{
+ "conv_id": "T22",
+ "version": "v1",
+ "sample_idx": 1,
+ "text": "The customer is submitting their third complaint regarding order LM-45118 and wants the issue resolved within 7 days, threatening legal action in consumer court and public posts online if it is not. So far, the agent has apologized for the repeated trouble and escalated the case to the compliance team. Next, the compliance team will contact the customer within 48 hours to handle the resolution.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:59:48",
+ "usage": {
+  "candidatesTokenCount": 100,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 154
+   }
+  ],
+  "totalTokenCount": 254,
+  "promptTokenCount": 154
+ },
+ "credits": 0.03,
+ "latency_ms": 6159,
+ "cached": false
+}

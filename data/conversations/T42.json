@@ -1,0 +1,14 @@
+{
+ "id": "T42",
+ "channel": "email",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Under the data protection law, I request deletion of all my personal data held by Lumo, and confirmation once done. Account: neha.k@example.com"
+  },
+  {
+   "role": "agent",
+   "text": "Thank you, Neha. I've forwarded your request to our privacy team. You'll receive confirmation within 30 days. Please note that invoices must be retained for tax purposes."
+  }
+ ]
+}

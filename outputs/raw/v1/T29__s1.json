@@ -1,0 +1,29 @@
+{
+ "conv_id": "T29",
+ "version": "v1",
+ "sample_idx": 1,
+ "text": "The customer ordered 12 Lumo Hubs (order LM-52210) and needs all of them delivered by November 21 for an installation, as only 3 have arrived so far. So far, the agent checked the order status and confirmed the remaining 9 units are split into two shipments arriving on November 20 (5 units) and November 23 (4 units). Next, the agent needs to contact the courier to request expedited delivery for the final 4 units and update the customer by tomorrow at noon.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:11:45",
+ "usage": {
+  "candidatesTokenCount": 115,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 180
+   }
+  ],
+  "totalTokenCount": 295,
+  "promptTokenCount": 180
+ },
+ "credits": 0.03,
+ "latency_ms": 8824,
+ "cached": false
+}

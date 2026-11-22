@@ -1,0 +1,29 @@
+{
+ "conv_id": "T36",
+ "version": "v2",
+ "sample_idx": 2,
+ "text": "Issue: Tracking request for replacement LM-51620.\nStatus: Shipped today; tracking LMT-7782-991-IN, ETA 3 days.\nNext step: None unless customer reports delivery issue.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:01:48",
+ "usage": {
+  "candidatesTokenCount": 42,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 143
+   }
+  ],
+  "totalTokenCount": 185,
+  "promptTokenCount": 143
+ },
+ "credits": 0.02,
+ "latency_ms": 4869,
+ "cached": false
+}

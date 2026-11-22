@@ -1,0 +1,29 @@
+{
+ "conv_id": "syn_01",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "The customer reported that Order LM-53001 arrived with a dented box and a scratched hub, and they requested a replacement. So far, the agent asked for photos of the damaged box and hub, and the customer stated they are sending them. Next, once the photos are received, the agent will arrange the replacement.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:56:35",
+ "usage": {
+  "candidatesTokenCount": 77,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 196
+   }
+  ],
+  "totalTokenCount": 273,
+  "promptTokenCount": 196
+ },
+ "credits": 0.03,
+ "latency_ms": 11114,
+ "cached": false
+}

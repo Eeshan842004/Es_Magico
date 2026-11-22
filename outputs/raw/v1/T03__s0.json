@@ -1,0 +1,29 @@
+{
+ "conv_id": "T03",
+ "version": "v1",
+ "sample_idx": 0,
+ "text": "Customer Priya Nair wants a phone call to discuss a broken bulb. So far, the agent has agreed to arrange a callback and confirmed the customer's availability. Next, an agent needs to call Priya tomorrow between 11:00 AM and 1:00 PM at +91 98765 43210 (or use priya.nair@example.com if needed).",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:03:32",
+ "usage": {
+  "candidatesTokenCount": 74,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 142
+   }
+  ],
+  "totalTokenCount": 216,
+  "promptTokenCount": 142
+ },
+ "credits": 0.02,
+ "latency_ms": 9075,
+ "cached": false
+}

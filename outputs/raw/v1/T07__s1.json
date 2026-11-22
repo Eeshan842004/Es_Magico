@@ -1,0 +1,29 @@
+{
+ "conv_id": "T07",
+ "version": "v1",
+ "sample_idx": 1,
+ "text": "The customer reported that a bulb purchased two days ago is not working and requested assistance. So far, the agent requested a photo of the bulb, the customer provided it, and a replacement was approved. Next, the replacement bulb will be shipped and is expected to arrive within four days.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:57:16",
+ "usage": {
+  "candidatesTokenCount": 73,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 133
+   }
+  ],
+  "totalTokenCount": 206,
+  "promptTokenCount": 133
+ },
+ "credits": 0.02,
+ "latency_ms": 12829,
+ "cached": false
+}

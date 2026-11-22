@@ -1,0 +1,29 @@
+{
+ "conv_id": "T07",
+ "version": "v2",
+ "sample_idx": 1,
+ "text": "Issue: Faulty bulb purchased two days ago.\nStatus: Photo verified; replacement bulb dispatched.\nNext step: Monitor delivery within 4 days and confirm resolution.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:58:46",
+ "usage": {
+  "candidatesTokenCount": 41,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 153
+   }
+  ],
+  "totalTokenCount": 194,
+  "promptTokenCount": 153
+ },
+ "credits": 0.02,
+ "latency_ms": 10721,
+ "cached": false
+}

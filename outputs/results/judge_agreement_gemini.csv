@@ -1,0 +1,16 @@
+judge,set,criterion,name,n,label_fail,judge_fail,raw_agree_pct,kappa,ci_low,ci_high,tp,fn,fp,tn,recall_on_label_fail,precision_on_judge_fail,trust,note
+gemini,heldout,J1,Faithfulness,60.0,5.0,5.0,96.7,0.782,0.302,1.0,4.0,1.0,1.0,54.0,0.8,0.8,substantial: trust for aggregate comparison,
+gemini,heldout,J2,Critical completeness,60.0,4.0,4.0,90.0,0.196,-0.087,0.64,1.0,3.0,3.0,53.0,0.25,0.25,weak: do not use for decisions,
+gemini,heldout,J3,Current state,60.0,0.0,1.0,98.3,0.0,0.0,0.0,0.0,0.0,1.0,59.0,,0.0,weak: do not use for decisions,
+gemini,heldout,J4,Next step,60.0,4.0,6.0,96.7,0.783,0.314,1.0,4.0,0.0,2.0,54.0,1.0,0.667,substantial: trust for aggregate comparison,
+gemini,heldout,J5,Usefulness/noise,60.0,1.0,0.0,98.3,0.0,0.0,0.0,0.0,1.0,0.0,59.0,0.0,,weak: do not use for decisions,
+gemini,heldout,J6,Tone & safety,60.0,1.0,0.0,98.3,0.0,0.0,0.0,0.0,1.0,0.0,59.0,0.0,,weak: do not use for decisions,
+gemini,heldout,overall,"Overall (J1-4,J6)",60.0,9.0,9.0,86.7,0.477,0.109,0.772,5.0,4.0,4.0,47.0,0.556,0.556,"moderate: use with caution, human-review judge FAILs",
+gemini,calibration,,,,,,,,,,,,,,,,,none: the judge prompt was never tuned on labels
+gemini,all,J1,Faithfulness,60.0,5.0,5.0,96.7,0.782,0.302,1.0,4.0,1.0,1.0,54.0,0.8,0.8,substantial: trust for aggregate comparison,
+gemini,all,J2,Critical completeness,60.0,4.0,4.0,90.0,0.196,-0.087,0.64,1.0,3.0,3.0,53.0,0.25,0.25,weak: do not use for decisions,
+gemini,all,J3,Current state,60.0,0.0,1.0,98.3,0.0,0.0,0.0,0.0,0.0,1.0,59.0,,0.0,weak: do not use for decisions,
+gemini,all,J4,Next step,60.0,4.0,6.0,96.7,0.783,0.314,1.0,4.0,0.0,2.0,54.0,1.0,0.667,substantial: trust for aggregate comparison,
+gemini,all,J5,Usefulness/noise,60.0,1.0,0.0,98.3,0.0,0.0,0.0,0.0,1.0,0.0,59.0,0.0,,weak: do not use for decisions,
+gemini,all,J6,Tone & safety,60.0,1.0,0.0,98.3,0.0,0.0,0.0,0.0,1.0,0.0,59.0,0.0,,weak: do not use for decisions,
+gemini,all,overall,"Overall (J1-4,J6)",60.0,9.0,9.0,86.7,0.477,0.109,0.772,5.0,4.0,4.0,47.0,0.556,0.556,"moderate: use with caution, human-review judge FAILs",

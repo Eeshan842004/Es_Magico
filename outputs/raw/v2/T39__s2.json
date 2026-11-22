@@ -1,0 +1,29 @@
+{
+ "conv_id": "T39",
+ "version": "v2",
+ "sample_idx": 2,
+ "text": "Issue: Customer received an erroneous refund instead of a requested replacement hub.\nStatus: Pending supervisor approval on whether the customer keeps the refund alongside the replacement.\nNext step: Confirm policy with supervisor and update the customer tomorrow.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:09:56",
+ "usage": {
+  "candidatesTokenCount": 66,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 192
+   }
+  ],
+  "totalTokenCount": 258,
+  "promptTokenCount": 192
+ },
+ "credits": 0.02,
+ "latency_ms": 8319,
+ "cached": false
+}

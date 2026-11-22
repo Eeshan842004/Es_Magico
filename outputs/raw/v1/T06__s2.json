@@ -1,0 +1,29 @@
+{
+ "conv_id": "T06",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "The customer contacted support because their order (LM-49055) has not arrived after 8 days and requested a new shipment after disputing the courier's failed delivery attempts. The agent dispatched a replacement order. The replacement is scheduled to arrive within 3 days.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:03:37",
+ "usage": {
+  "candidatesTokenCount": 68,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 169
+   }
+  ],
+  "totalTokenCount": 237,
+  "promptTokenCount": 169
+ },
+ "credits": 0.02,
+ "latency_ms": 5919,
+ "cached": false
+}

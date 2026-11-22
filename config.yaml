@@ -1,0 +1,47 @@
+# Every tunable lives here. Seeds are fixed so every sampling step is reproducible.
+seed: 42
+n_samples: 5            # samples per (conversation, version)
+concurrency: 4          # parallel generation calls
+retries: 5
+
+models:
+  gen: gemini-3-8-flash   # can be overridden by GEN_MODEL in .env; identical for v1 and v2
+  gen_backend: native     # the smoke test showed this model is only served by kie.ai's native Gemini route
+
+gen_params:
+  reasoning_effort: low   # closest to the starter, which sends no reasoning setting
+  temperature: 0.7        # the starter's production default. The smoke test showed temperature is not really
+                          # controllable on this model (temperature 0 still varies), so this documents intent only.
+
+# Two judges, same rubric, same prompt.
+#   gemini: the pre-registered judge. Stopped at 181/300 when kie.ai credits ran out (a random subset, because the
+#           call order was a seeded shuffle). Rebuilt from cache with CACHE_ONLY=1.
+#   gptoss: a judge from a different model family, on Groq's free tier.
+judges:
+  gemini:
+    model: gemini-3-pro
+    backend: openai
+    reasoning_effort: high
+    temperature: 0        # accepted by the provider; may not be enforced
+    concurrency: 6
+    out: judge.jsonl
+  gptoss:
+    model: openai/gpt-oss-120b
+    backend: groq
+    reasoning_effort: medium
+    temperature: 0
+    concurrency: 2        # free tier allows 8K tokens/min per key; two workers is about one per key
+    retries: 40           # 429s are normal on the free tier; the client rotates keys
+    out: judge_gptoss.jsonl
+
+# Deterministic check thresholds (docs/spec_gaps.md G1). Fixed before any golden-set output existed.
+checks:
+  soft_words: 60
+  hard_words: 80
+
+labelling:
+  round2_seed: 2026       # fresh sample of 60; all held-out (the judge prompt was never tuned on labels)
+
+bootstrap:
+  agreement_resamples: 2000
+  analysis_resamples: 5000

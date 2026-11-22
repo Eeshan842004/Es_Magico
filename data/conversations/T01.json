@@ -1,0 +1,26 @@
+{
+ "id": "T01",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Hi, my order LM-48213 was supposed to arrive on 10 Nov. It's 15 Nov now and nothing."
+  },
+  {
+   "role": "agent",
+   "text": "Sorry about that. Let me check. I can see it was stuck at the Pune hub."
+  },
+  {
+   "role": "customer",
+   "text": "I don't want to wait any more. Please refund me."
+  },
+  {
+   "role": "agent",
+   "text": "Understood. I've initiated a refund of ₹4,999 to your original payment method. It takes 5-7 working days."
+  },
+  {
+   "role": "customer",
+   "text": "Ok thanks."
+  }
+ ]
+}

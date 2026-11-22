@@ -1,0 +1,29 @@
+{
+ "conv_id": "T14",
+ "version": "v2",
+ "sample_idx": 3,
+ "text": "Issue: Wrong GST on invoice LM-46002, Lumo Care cancellation, and bedroom hub disconnecting.\nStatus: Lumo Care cancelled effective 30 Nov; firmware 2.3.1 sent to tech team; invoice reissue requested.\nNext step: Confirm finance sends revised LM-46002 within 2 days and follow up on tech team's hub diagnosis.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:02:53",
+ "usage": {
+  "candidatesTokenCount": 77,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 235
+   }
+  ],
+  "totalTokenCount": 312,
+  "promptTokenCount": 235
+ },
+ "credits": 0.03,
+ "latency_ms": 5868,
+ "cached": false
+}

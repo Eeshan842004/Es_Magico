@@ -1,0 +1,29 @@
+{
+ "conv_id": "T10",
+ "version": "v1",
+ "sample_idx": 0,
+ "text": "* **Customer's Request:** The customer wanted to return their hub (purchased 5 weeks ago) simply because they do not like it.\n* **Action Taken:** The previous agent declined the return because it falls outside the 30-day return policy and confirmed the device is not faulty. The customer reluctantly accepted the decision. (Note: Customer is internally flagged for return abuse.)\n* **Next Steps:** No further action is required; the case can be closed unless the customer reaches out with a new issue.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:01:04",
+ "usage": {
+  "candidatesTokenCount": 126,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 184
+   }
+  ],
+  "totalTokenCount": 310,
+  "promptTokenCount": 184
+ },
+ "credits": 0.04,
+ "latency_ms": 12493,
+ "cached": false
+}

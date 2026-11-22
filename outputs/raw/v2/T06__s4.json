@@ -1,0 +1,29 @@
+{
+ "conv_id": "T06",
+ "version": "v2",
+ "sample_idx": 4,
+ "text": "Issue: Order LM-49055 not delivered after 8 days; customer disputed failed delivery attempts.\nStatus: Replacement dispatched; estimated delivery in 3 days.\nNext step: Monitor replacement tracking and confirm delivery with customer.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:57:05",
+ "usage": {
+  "candidatesTokenCount": 58,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 189
+   }
+  ],
+  "totalTokenCount": 247,
+  "promptTokenCount": 189
+ },
+ "credits": 0.02,
+ "latency_ms": 13160,
+ "cached": false
+}

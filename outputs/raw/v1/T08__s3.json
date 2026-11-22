@@ -1,0 +1,29 @@
+{
+ "conv_id": "T08",
+ "version": "v1",
+ "sample_idx": 3,
+ "text": "The customer wants a manager to call them because a smart plug allegedly fried their extension board and they have not been able to reach anyone by phone. The agent gathered order number LM-47720, apologized, explained they cannot transfer the call immediately, flagged the case for the duty manager, and offered a ₹500 coupon that the customer declined. Next, the duty manager needs to call the customer within 24 hours.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:09:40",
+ "usage": {
+  "candidatesTokenCount": 106,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 205
+   }
+  ],
+  "totalTokenCount": 311,
+  "promptTokenCount": 205
+ },
+ "credits": 0.03,
+ "latency_ms": 5229,
+ "cached": false
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T11",
+ "version": "v1",
+ "sample_idx": 4,
+ "text": "The customer has only greeted the support chat (\"hi\") and has not stated what they need yet. No troubleshooting or support actions have been taken so far. Next, the support agent needs to greet the customer and ask how they can help.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:07:02",
+ "usage": {
+  "candidatesTokenCount": 59,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 82
+   }
+  ],
+  "totalTokenCount": 141,
+  "promptTokenCount": 82
+ },
+ "credits": 0.02,
+ "latency_ms": 6230,
+ "cached": false
+}

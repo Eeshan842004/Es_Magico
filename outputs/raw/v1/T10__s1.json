@@ -1,0 +1,29 @@
+{
+ "conv_id": "T10",
+ "version": "v1",
+ "sample_idx": 1,
+ "text": "The customer wants to return a 5-week-old hub simply because they do not like it. The agent informed the customer that the 30-day return window has passed and that a return cannot be processed since the device is not faulty. An internal note indicates the account is flagged for potential return abuse due to four returns in the last 90 days. The customer reluctantly accepted the denial, so no further action is needed unless they reach back out.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:01:43",
+ "usage": {
+  "candidatesTokenCount": 112,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 184
+   }
+  ],
+  "totalTokenCount": 296,
+  "promptTokenCount": 184
+ },
+ "credits": 0.03,
+ "latency_ms": 7861,
+ "cached": false
+}

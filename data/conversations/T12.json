@@ -1,0 +1,18 @@
+{
+ "id": "T12",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "bot",
+   "text": "Hi! I'm Lumo's assistant. How can I help?"
+  },
+  {
+   "role": "bot",
+   "text": "Are you still there?"
+  },
+  {
+   "role": "bot",
+   "text": "I'll close this chat now. Have a great day!"
+  }
+ ]
+}

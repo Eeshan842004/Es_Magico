@@ -1,0 +1,26 @@
+{
+ "id": "T33",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "hey 👋 got the new plug 🔌 but app says offline 😭"
+  },
+  {
+   "role": "agent",
+   "text": "Hi! 😊 Let's fix that. Have you added it to the app yet?"
+  },
+  {
+   "role": "customer",
+   "text": "yes!! pressed + and everything 🙌"
+  },
+  {
+   "role": "agent",
+   "text": "Please hold the button for 5 seconds until the light blinks, then add it again."
+  },
+  {
+   "role": "customer",
+   "text": "omg it works!!! thank you 🎉🎉"
+  }
+ ]
+}

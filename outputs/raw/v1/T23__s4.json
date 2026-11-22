@@ -1,0 +1,29 @@
+{
+ "conv_id": "T23",
+ "version": "v1",
+ "sample_idx": 4,
+ "text": "The customer reported a burning smell, hot casing, and a black mark on the socket of their Lumo smart plug, and they want urgent help due to concerns about their wiring. So far, the customer has unplugged the device per the agent's safety instructions, and the case has been escalated to the product safety team. Next, the product safety team will contact the customer today to arrange a replacement and collect the damaged plug for inspection.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:03:31",
+ "usage": {
+  "candidatesTokenCount": 111,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 188
+   }
+  ],
+  "totalTokenCount": 299,
+  "promptTokenCount": 188
+ },
+ "credits": 0.03,
+ "latency_ms": 10590,
+ "cached": false
+}

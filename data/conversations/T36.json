@@ -1,0 +1,18 @@
+{
+ "id": "T36",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "My replacement unit shipped. Tracking number?"
+  },
+  {
+   "role": "agent",
+   "text": "Your replacement for LM-51620 shipped today, tracking number LMT-7782-991-IN, expected in 3 days."
+  },
+  {
+   "role": "customer",
+   "text": "Thanks!"
+  }
+ ]
+}

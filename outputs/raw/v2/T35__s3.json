@@ -1,0 +1,29 @@
+{
+ "conv_id": "T35",
+ "version": "v2",
+ "sample_idx": 3,
+ "text": "Issue: Replacement hub (order LM-46855) arrived with an incompatible US power adapter; customer experienced repeated transfers and unfulfilled courier promises.\nStatus: Correct adapter dispatched (tracking LMT-5521-014-IN) and history note added to account.\nNext step: Send promised personal written apology via email.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:04:13",
+ "usage": {
+  "candidatesTokenCount": 80,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 549
+   }
+  ],
+  "totalTokenCount": 629,
+  "promptTokenCount": 549
+ },
+ "credits": 0.04,
+ "latency_ms": 5740,
+ "cached": false
+}

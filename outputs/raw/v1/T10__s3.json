@@ -1,0 +1,29 @@
+{
+ "conv_id": "T10",
+ "version": "v1",
+ "sample_idx": 3,
+ "text": "The customer wants to return a working hub that is 5 weeks old because they do not like it. The previous agent informed the customer that the 30-day return window has passed and that non-faulty items cannot be returned. The customer accepted this decision, so no further action is needed unless they reach back out.\n\n*Internal context: The account has 4 returns in the past 90 days and is flagged for potential return abuse (do not mention this to the customer).*",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:56:14",
+ "usage": {
+  "candidatesTokenCount": 116,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 184
+   }
+  ],
+  "totalTokenCount": 300,
+  "promptTokenCount": 184
+ },
+ "credits": 0.03,
+ "latency_ms": 6555,
+ "cached": false
+}

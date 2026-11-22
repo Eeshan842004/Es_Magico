@@ -1,0 +1,26 @@
+{
+ "id": "T06",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "mera order abhi tak nahi aaya, 8 din ho gaye. order number LM-49055"
+  },
+  {
+   "role": "agent",
+   "text": "Maaf kijiye. Main check karta hoon. Courier ne 2 baar delivery attempt kiya tha, par aap available nahi the."
+  },
+  {
+   "role": "customer",
+   "text": "Nahi nahi, koi call nahi aaya. Mujhe naya bhejo."
+  },
+  {
+   "role": "agent",
+   "text": "Theek hai, maine replacement dispatch kar diya hai. 3 din mein pahunch jayega."
+  },
+  {
+   "role": "customer",
+   "text": "Ok shukriya."
+  }
+ ]
+}

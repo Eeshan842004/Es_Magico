@@ -1,0 +1,29 @@
+{
+ "conv_id": "T23",
+ "version": "v2",
+ "sample_idx": 0,
+ "text": "Issue: Lumo smart plug overheating with burning smell and scorch mark on socket.\nStatus: Customer unplugged device; concerned about home wiring.\nNext step: Product safety team to contact customer today for urgent replacement and defective unit collection.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:58:37",
+ "usage": {
+  "candidatesTokenCount": 64,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 209
+   }
+  ],
+  "totalTokenCount": 273,
+  "promptTokenCount": 209
+ },
+ "credits": 0.02,
+ "latency_ms": 7944,
+ "cached": false
+}

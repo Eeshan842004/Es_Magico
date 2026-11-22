@@ -1,0 +1,29 @@
+{
+ "conv_id": "T29",
+ "version": "v2",
+ "sample_idx": 2,
+ "text": "Issue: Customer needs all 12 Lumo Hubs from order LM-52210 by Nov 21 for installation, but 4 arrive Nov 23.\nStatus: 3 delivered, 5 arriving Nov 20, 4 scheduled Nov 23.\nNext step: Request courier expedite for the final 4 units and update customer by tomorrow noon.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:00:19",
+ "usage": {
+  "candidatesTokenCount": 66,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 201
+   }
+  ],
+  "totalTokenCount": 267,
+  "promptTokenCount": 201
+ },
+ "credits": 0.02,
+ "latency_ms": 9351,
+ "cached": false
+}

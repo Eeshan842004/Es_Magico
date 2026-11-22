@@ -1,0 +1,29 @@
+{
+ "conv_id": "T35",
+ "version": "v1",
+ "sample_idx": 0,
+ "text": "The customer wants the correct power adapter for their replacement hub (order LM-46855), assurance that they will not experience similar support issues again, and a personalized written apology. \n\nSo far, the previous agent has apologized, dispatched the correct adapter (tracking LMT-5521-014-IN), and added a history note to the customer's account to prevent them from having to repeat their story. \n\nNext, the previous agent needs to send the promised personalized written apology via email.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:09:33",
+ "usage": {
+  "candidatesTokenCount": 124,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 529
+   }
+  ],
+  "totalTokenCount": 653,
+  "promptTokenCount": 529
+ },
+ "credits": 0.05,
+ "latency_ms": 12452,
+ "cached": false
+}

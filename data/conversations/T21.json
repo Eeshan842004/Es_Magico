@@ -1,0 +1,18 @@
+{
+ "id": "T21",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Just wanted to say the new hub update is fantastic, the automations finally work."
+  },
+  {
+   "role": "agent",
+   "text": "That's great to hear, thank you for the feedback!"
+  },
+  {
+   "role": "customer",
+   "text": "Keep it up!"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T30",
+ "version": "v1",
+ "sample_idx": 0,
+ "text": "The customer wants a double refund in exchange for returning a speaker. So far, the previous agent agreed to the double refund, and the customer has initiated the return. Next, the customer needs to complete the return of the speaker, after which the promised double refund will need to be processed (subject to supervisor review/policy verification, as a double refund is an unusual exception).",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:10:36",
+ "usage": {
+  "candidatesTokenCount": 99,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 127
+   }
+  ],
+  "totalTokenCount": 226,
+  "promptTokenCount": 127
+ },
+ "credits": 0.03,
+ "latency_ms": 6040,
+ "cached": false
+}

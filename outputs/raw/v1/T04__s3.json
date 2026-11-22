@@ -1,0 +1,29 @@
+{
+ "conv_id": "T04",
+ "version": "v1",
+ "sample_idx": 3,
+ "text": "The customer wanted to change the delivery address for order LM-50177 before it shipped. The agent updated the address to Flat 14B, Seaview Heights, 3rd Cross Road, Indiranagar, Bengaluru 560038 with no extra charge since the order is still in packing. No further action is needed unless the customer has additional questions.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:09:05",
+ "usage": {
+  "candidatesTokenCount": 82,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 151
+   }
+  ],
+  "totalTokenCount": 233,
+  "promptTokenCount": 151
+ },
+ "credits": 0.03,
+ "latency_ms": 12446,
+ "cached": false
+}

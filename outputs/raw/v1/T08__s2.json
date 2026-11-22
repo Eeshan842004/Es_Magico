@@ -1,0 +1,29 @@
+{
+ "conv_id": "T08",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "**What the customer wants:** The customer is reporting that a smart plug (Order LM-47720) fried their extension board and wants to speak directly with a manager.\n\n**What has been done so far:** The agent collected the order number, flagged the issue to the duty manager, and offered a ₹500 apology coupon, which the customer declined.\n\n**What happens next:** The duty manager needs to call the customer within 24 hours to address the damaged extension board and service complaint.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:55:16",
+ "usage": {
+  "candidatesTokenCount": 120,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 205
+   }
+  ],
+  "totalTokenCount": 325,
+  "promptTokenCount": 205
+ },
+ "credits": 0.04,
+ "latency_ms": 9359,
+ "cached": false
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T11",
+ "version": "v2",
+ "sample_idx": 0,
+ "text": "Issue: Customer said \"hi\" with no reported problem.\nStatus: Awaiting customer details.\nNext step: Ask how we can help.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:09:46",
+ "usage": {
+  "candidatesTokenCount": 30,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 102
+   }
+  ],
+  "totalTokenCount": 132,
+  "promptTokenCount": 102
+ },
+ "credits": 0.01,
+ "latency_ms": 6558,
+ "cached": false
+}

@@ -1,0 +1,29 @@
+{
+ "conv_id": "T36",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "The customer wanted the tracking number for their replacement unit. The agent confirmed the replacement for order LM-51620 shipped today with tracking number LMT-7782-991-IN and an expected delivery in 3 days. No further action is needed unless the customer follows up about delivery.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:03:11",
+ "usage": {
+  "candidatesTokenCount": 71,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 123
+   }
+  ],
+  "totalTokenCount": 194,
+  "promptTokenCount": 123
+ },
+ "credits": 0.02,
+ "latency_ms": 5282,
+ "cached": false
+}

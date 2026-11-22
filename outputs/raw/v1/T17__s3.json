@@ -1,0 +1,29 @@
+{
+ "conv_id": "T17",
+ "version": "v1",
+ "sample_idx": 3,
+ "text": "The customer contacted support regarding a delayed warranty claim (WC-3391) for a faulty Lumo Hub, expressing frustration over processing delays and a missed callback, and wanted a resolution and timeline. \n\nSo far, the agent apologised for the delays, logged the missed callback, confirmed the unit cannot be repaired, and approved a free warranty replacement. The agent also confirmed that the customer's custom automations are saved to their account and will restore upon login, though devices may need to be re-paired.\n\nNext, a courier is booked for 22 November between 2:00 PM and 5:00 PM to deliver the replacement unit, collect the old one, and provide a requested pickup slip.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:55:47",
+ "usage": {
+  "candidatesTokenCount": 171,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 575
+   }
+  ],
+  "totalTokenCount": 746,
+  "promptTokenCount": 575
+ },
+ "credits": 0.06,
+ "latency_ms": 10952,
+ "cached": false
+}

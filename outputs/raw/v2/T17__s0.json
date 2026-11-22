@@ -1,0 +1,29 @@
+{
+ "conv_id": "T17",
+ "version": "v2",
+ "sample_idx": 0,
+ "text": "Issue: Unresponsive Lumo Hub under warranty claim WC-3391 (delayed service centre processing and missed callback).\nStatus: Free warranty replacement approved; courier swap booked for 22 Nov (2–5 PM) with pickup slip requested.\nNext step: Ensure courier brings pickup slip and monitor replacement delivery/collection on 22 Nov.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:06:34",
+ "usage": {
+  "candidatesTokenCount": 82,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 595
+   }
+  ],
+  "totalTokenCount": 677,
+  "promptTokenCount": 595
+ },
+ "credits": 0.05,
+ "latency_ms": 11439,
+ "cached": false
+}

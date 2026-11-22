@@ -1,0 +1,29 @@
+{
+ "conv_id": "T19",
+ "version": "v1",
+ "sample_idx": 1,
+ "text": "The customer wants to cancel their Lumo Care subscription because it is too expensive. The agent offered a 50% discount for 3 months, which the customer declined, and the agent then processed the cancellation. The subscription will remain active until December 1, after which it will end with no further charges.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:09:27",
+ "usage": {
+  "candidatesTokenCount": 78,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 146
+   }
+  ],
+  "totalTokenCount": 224,
+  "promptTokenCount": 146
+ },
+ "credits": 0.02,
+ "latency_ms": 7282,
+ "cached": false
+}

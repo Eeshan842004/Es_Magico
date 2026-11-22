@@ -1,0 +1,29 @@
+{
+ "conv_id": "T35",
+ "version": "v2",
+ "sample_idx": 4,
+ "text": "Issue: Replacement hub (order LM-46855) arrived with wrong power adapter; customer experienced repeated transfers and unfulfilled courier promise.\nStatus: Correct adapter dispatched (tracking LMT-5521-014-IN); account noted with full history.\nNext step: Send promised non-template written apology email.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:57:45",
+ "usage": {
+  "candidatesTokenCount": 76,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 549
+   }
+  ],
+  "totalTokenCount": 625,
+  "promptTokenCount": 549
+ },
+ "credits": 0.04,
+ "latency_ms": 14574,
+ "cached": false
+}

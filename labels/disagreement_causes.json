@@ -1,0 +1,141 @@
+{
+ "gemini": {
+  "H03": {
+   "J2": "expectation too strict: the missing detail isn't needed by the next agent"
+  },
+  "H08": {
+   "J3": "expectation flawed: the case is not actually finished",
+   "J4": "expectation flawed: the case is not actually finished"
+  },
+  "H12": {
+   "J2": "judge too lenient: missed a real problem"
+  },
+  "H18": {
+   "J2": "judge too lenient: missed a real problem"
+  },
+  "H19": {
+   "J2": "expectation too strict: the missing detail isn't needed by the next agent",
+   "J5": "judge too lenient: missed a real problem"
+  },
+  "H24": {
+   "J4": "judge too strict: harmless inference or hedge"
+  },
+  "H27": {
+   "J2": "judge too lenient: missed a real problem"
+  },
+  "H29": {
+   "J1": "rubric ambiguous: counted under a different criterion, or inference vs statement"
+  },
+  "H38": {
+   "J2": "expectation too strict: the missing detail isn't needed by the next agent"
+  },
+  "H42": {
+   "J6": "judge too lenient: missed a real problem"
+  },
+  "H52": {
+   "J1": "rubric ambiguous: counted under a different criterion, or inference vs statement"
+  }
+ },
+ "gptoss": {
+  "H01": {
+   "J1": "judge too strict: harmless inference or hedge",
+   "J4": "judge too strict: harmless inference or hedge"
+  },
+  "H03": {
+   "J2": "expectation too strict: the missing detail isn't needed by the next agent"
+  },
+  "H07": {
+   "J6": "out of scope: personal data is checked by code, not this rubric"
+  },
+  "H08": {
+   "J3": "expectation flawed: the case is not actually finished"
+  },
+  "H09": {
+   "J2": "expectation too strict: the missing detail isn't needed by the next agent"
+  },
+  "H11": {
+   "J1": "judge too strict: harmless inference or hedge"
+  },
+  "H12": {
+   "J1": "judge too strict: harmless inference or hedge"
+  },
+  "H13": {
+   "J1": "judge too strict: harmless inference or hedge",
+   "J4": "judge too strict: harmless inference or hedge",
+   "J6": "out of scope: personal data is checked by code, not this rubric"
+  },
+  "H14": {
+   "J6": "out of scope: personal data is checked by code, not this rubric"
+  },
+  "H17": {
+   "J2": "expectation too strict: the missing detail isn't needed by the next agent"
+  },
+  "H19": {
+   "J1": "judge wrong: the claim is in the conversation",
+   "J2": "expectation too strict: the missing detail isn't needed by the next agent",
+   "J5": "judge too lenient: missed a real problem"
+  },
+  "H20": {
+   "J2": "judge too strict: harmless inference or hedge"
+  },
+  "H24": {
+   "J4": "judge too strict: harmless inference or hedge"
+  },
+  "H25": {
+   "J2": "judge wrong: the claim is in the conversation"
+  },
+  "H29": {
+   "J2": "rubric ambiguous: counted under a different criterion, or inference vs statement",
+   "J3": "rubric ambiguous: counted under a different criterion, or inference vs statement"
+  },
+  "H32": {
+   "J1": "judge too strict: harmless inference or hedge",
+   "J4": "judge too strict: harmless inference or hedge"
+  },
+  "H35": {
+   "J2": "expectation too strict: the missing detail isn't needed by the next agent",
+   "J6": "rubric ambiguous: counted under a different criterion, or inference vs statement"
+  },
+  "H37": {
+   "J2": "expectation too strict: the missing detail isn't needed by the next agent"
+  },
+  "H38": {
+   "J2": "expectation too strict: the missing detail isn't needed by the next agent"
+  },
+  "H41": {
+   "J2": "expectation too strict: the missing detail isn't needed by the next agent"
+  },
+  "H42": {
+   "J4": "judge too lenient: missed a real problem",
+   "J6": "judge too lenient: missed a real problem"
+  },
+  "H43": {
+   "J1": "judge wrong: the claim is in the conversation",
+   "J2": "judge wrong: the claim is in the conversation"
+  },
+  "H48": {
+   "J5": "judge too strict: harmless inference or hedge",
+   "J6": "rubric ambiguous: counted under a different criterion, or inference vs statement"
+  },
+  "H52": {
+   "J1": "rubric ambiguous: counted under a different criterion, or inference vs statement"
+  },
+  "H55": {
+   "J4": "judge too lenient: missed a real problem",
+   "J6": "rubric ambiguous: counted under a different criterion, or inference vs statement"
+  },
+  "H56": {
+   "J1": "judge too strict: harmless inference or hedge",
+   "J2": "judge too strict: harmless inference or hedge",
+   "J4": "judge too strict: harmless inference or hedge"
+  },
+  "H58": {
+   "J2": "judge too strict: harmless inference or hedge"
+  },
+  "H59": {
+   "J1": "judge too strict: harmless inference or hedge",
+   "J2": "judge too strict: harmless inference or hedge",
+   "J4": "judge too strict: harmless inference or hedge"
+  }
+ }
+}

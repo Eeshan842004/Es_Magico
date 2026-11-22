@@ -1,0 +1,26 @@
+{
+ "id": "T29",
+ "channel": "email",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "We ordered 12 Lumo Hubs for our office, order LM-52210. Only 3 have been delivered."
+  },
+  {
+   "role": "agent",
+   "text": "Checking. The other 9 are dispatched in two shipments: 5 arrive 20 Nov and 4 arrive 23 Nov."
+  },
+  {
+   "role": "customer",
+   "text": "We need all 12 by the 21st for an installation."
+  },
+  {
+   "role": "agent",
+   "text": "I can't promise the last 4 by the 21st. I can ask the courier to expedite them, no guarantee."
+  },
+  {
+   "role": "customer",
+   "text": "Please do, and let me know by tomorrow noon."
+  }
+ ]
+}

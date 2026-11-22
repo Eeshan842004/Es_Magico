@@ -1,0 +1,12 @@
+criterion,conv_id,v1_fails,v2_fails
+faithfulness_fail,T07,0/4,2/2
+faithfulness_fail,T27,0/5,3/3
+faithfulness_fail,T32,0/5,2/3
+completeness_fail,T23,0/2,3/4
+completeness_fail,T32,0/5,2/3
+completeness_fail,T39,0/2,2/3
+critical_any,T07,0/4,2/2
+critical_any,T23,0/2,3/4
+critical_any,T27,0/5,3/3
+critical_any,T32,0/5,3/3
+critical_any,T39,0/2,2/3

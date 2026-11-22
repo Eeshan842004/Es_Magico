@@ -1,0 +1,29 @@
+{
+ "conv_id": "T40",
+ "version": "v2",
+ "sample_idx": 0,
+ "text": "Issue: Customer needed order LM-52330 delivered before 6pm tomorrow.\nStatus: Upgraded to Express delivery (guaranteed by 5pm tomorrow) and charged ₹199.\nNext step: None; monitor delivery if needed.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T00:57:45",
+ "usage": {
+  "candidatesTokenCount": 50,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 178
+   }
+  ],
+  "totalTokenCount": 228,
+  "promptTokenCount": 178
+ },
+ "credits": 0.02,
+ "latency_ms": 17802,
+ "cached": false
+}

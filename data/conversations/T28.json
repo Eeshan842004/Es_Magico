@@ -1,0 +1,26 @@
+{
+ "id": "T28",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Hi, I'm calling for my wife, her order LM-49344 hasn't come. Can you tell me the status and the address on it?"
+  },
+  {
+   "role": "agent",
+   "text": "I'm sorry, for privacy I can only share order details with the account holder."
+  },
+  {
+   "role": "customer",
+   "text": "She's right here but she's busy, come on."
+  },
+  {
+   "role": "agent",
+   "text": "I understand, but I can't make an exception. If she contacts us from her registered email or phone, we'll gladly help."
+  },
+  {
+   "role": "customer",
+   "text": "Ugh, fine. I'll ask her to write in."
+  }
+ ]
+}

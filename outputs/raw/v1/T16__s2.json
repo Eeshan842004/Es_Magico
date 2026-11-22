@@ -1,0 +1,29 @@
+{
+ "conv_id": "T16",
+ "version": "v1",
+ "sample_idx": 2,
+ "text": "The customer is asking why their camera order has not arrived yet, noting they placed it on November 3 rather than November 8 as shown in the system. So far, the agent checked the order date and requested a screenshot of the customer's November 3 confirmation SMS to verify the discrepancy. Next, the customer will send the screenshot once they finish travelling, and the support team will investigate the date mismatch.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:09:54",
+ "usage": {
+  "candidatesTokenCount": 105,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 164
+   }
+  ],
+  "totalTokenCount": 269,
+  "promptTokenCount": 164
+ },
+ "credits": 0.03,
+ "latency_ms": 7327,
+ "cached": false
+}

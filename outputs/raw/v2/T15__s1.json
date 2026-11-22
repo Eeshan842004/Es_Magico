@@ -1,0 +1,29 @@
+{
+ "conv_id": "T15",
+ "version": "v2",
+ "sample_idx": 1,
+ "text": "Issue: Cracked speaker cover on Order LM-48870; agent mistakenly approved a ₹3,499 refund before denying it due to prior use.\nStatus: Customer reluctantly accepted a free replacement cover instead.\nNext step: Process and ship the free replacement cover for Order LM-48870.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:07:19",
+ "usage": {
+  "candidatesTokenCount": 68,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 228
+   }
+  ],
+  "totalTokenCount": 296,
+  "promptTokenCount": 228
+ },
+ "credits": 0.03,
+ "latency_ms": 13249,
+ "cached": false
+}

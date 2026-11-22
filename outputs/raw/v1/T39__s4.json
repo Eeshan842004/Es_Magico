@@ -1,0 +1,29 @@
+{
+ "conv_id": "T39",
+ "version": "v1",
+ "sample_idx": 4,
+ "text": "The customer wants a replacement hub, which they have not yet received, instead of the refund that was issued to them in error. So far, the previous agent apologized for the mistake and offered to arrange the replacement without reversing the refund, though the customer questioned whether they would get to keep both. Next, the agent needs to confirm with a supervisor if the customer can keep the refund alongside receiving the replacement, and follow up with the customer tomorrow.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:56:18",
+ "usage": {
+  "candidatesTokenCount": 121,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 172
+   }
+  ],
+  "totalTokenCount": 293,
+  "promptTokenCount": 172
+ },
+ "credits": 0.03,
+ "latency_ms": 10499,
+ "cached": false
+}

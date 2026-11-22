@@ -1,0 +1,29 @@
+{
+ "conv_id": "T27",
+ "version": "v1",
+ "sample_idx": 1,
+ "text": "The customer wants to return a malfunctioning smart lamp from order LM-50911. The agent located the order and booked a return pickup. Next, the courier will pick up the lamp tomorrow evening.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:01:43",
+ "usage": {
+  "candidatesTokenCount": 48,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 172
+   }
+  ],
+  "totalTokenCount": 220,
+  "promptTokenCount": 172
+ },
+ "credits": 0.02,
+ "latency_ms": 13638,
+ "cached": false
+}

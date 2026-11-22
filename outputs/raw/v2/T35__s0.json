@@ -1,0 +1,29 @@
+{
+ "conv_id": "T35",
+ "version": "v2",
+ "sample_idx": 0,
+ "text": "Issue: Wrong power adapter sent with replacement hub (LM-46855) after prior support transfers.\nStatus: Correct adapter dispatched (LMT-5521-014-IN); account note added; personal apology pending.\nNext step: Send personalized written apology and confirm delivery.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "b31eeafd2970",
+ "ts": "2026-11-20T01:09:35",
+ "usage": {
+  "candidatesTokenCount": 66,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 549
+   }
+  ],
+  "totalTokenCount": 615,
+  "promptTokenCount": 549
+ },
+ "credits": 0.04,
+ "latency_ms": 5411,
+ "cached": false
+}

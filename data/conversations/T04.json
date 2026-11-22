@@ -1,0 +1,26 @@
+{
+ "id": "T04",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Need to change the delivery address for LM-50177 before it ships."
+  },
+  {
+   "role": "agent",
+   "text": "Sure, what's the new address?"
+  },
+  {
+   "role": "customer",
+   "text": "Flat 14B, Seaview Heights, 3rd Cross Road, Indiranagar, Bengaluru 560038"
+  },
+  {
+   "role": "agent",
+   "text": "Updated. The order is still in packing so there is no extra charge."
+  },
+  {
+   "role": "customer",
+   "text": "Perfect."
+  }
+ ]
+}

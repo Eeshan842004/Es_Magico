@@ -1,0 +1,30 @@
+{
+ "id": "T10",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "I want to return my hub, it's 5 weeks old."
+  },
+  {
+   "role": "agent",
+   "text": "[Internal note: customer has 4 returns in 90 days, flagged as possible return abuse. Do not disclose.]"
+  },
+  {
+   "role": "agent",
+   "text": "Our return window is 30 days, so I can't process a return, but the hub is under warranty if it's faulty."
+  },
+  {
+   "role": "customer",
+   "text": "It's not faulty, I just don't like it."
+  },
+  {
+   "role": "agent",
+   "text": "I understand. I'm unable to offer a return in that case."
+  },
+  {
+   "role": "customer",
+   "text": "That's unfair but fine."
+  }
+ ]
+}

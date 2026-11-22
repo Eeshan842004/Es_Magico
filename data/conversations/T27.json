@@ -1,0 +1,30 @@
+{
+ "id": "T27",
+ "channel": "voice",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Hello yeah um I want to I want to returned the the product, the the smart, the lamp, it's not it's not working properly."
+  },
+  {
+   "role": "agent",
+   "text": "Sure, sir. Do you have the order number?"
+  },
+  {
+   "role": "customer",
+   "text": "It's uh LM five zero nine one one."
+  },
+  {
+   "role": "agent",
+   "text": "I see order LM-50911. I'll arrange a pickup."
+  },
+  {
+   "role": "customer",
+   "text": "Okay tomorrow is good, in the evening please."
+  },
+  {
+   "role": "agent",
+   "text": "Pickup booked for tomorrow evening."
+  }
+ ]
+}

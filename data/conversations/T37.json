@@ -1,0 +1,22 @@
+{
+ "id": "T37",
+ "channel": "chat",
+ "messages": [
+  {
+   "role": "customer",
+   "text": "Hi, I spoke to someone yesterday about my broken lamp, order LM-49812."
+  },
+  {
+   "role": "agent",
+   "text": "Hello, I'm Rohan, taking over from Meera. I can see Meera asked you for a photo of the base. Have you got one?"
+  },
+  {
+   "role": "agent",
+   "text": "Internal: Meera noted customer is eligible for replacement once photo received."
+  },
+  {
+   "role": "customer",
+   "text": "I haven't sent it yet."
+  }
+ ]
+}

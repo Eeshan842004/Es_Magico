@@ -1,0 +1,29 @@
+{
+ "conv_id": "T38",
+ "version": "v1",
+ "sample_idx": 4,
+ "text": "The customer wants to return only the bulb pack (₹899) from order LM-48001. So far, the agent explained that a ₹50 restocking fee applies to opened packs, bringing the refund to ₹849, and the customer agreed to proceed. Next, the agent needs to process the partial return and issue the ₹849 refund.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T01:12:14",
+ "usage": {
+  "candidatesTokenCount": 75,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 152
+   }
+  ],
+  "totalTokenCount": 227,
+  "promptTokenCount": 152
+ },
+ "credits": 0.02,
+ "latency_ms": 9930,
+ "cached": false
+}

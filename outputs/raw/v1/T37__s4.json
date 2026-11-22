@@ -1,0 +1,29 @@
+{
+ "conv_id": "T37",
+ "version": "v1",
+ "sample_idx": 4,
+ "text": "The customer wants a replacement for their broken lamp from order LM-49812. So far, the previous agent confirmed eligibility and requested a photo of the lamp's base, and the current agent followed up on that request. Next, the customer needs to send the photo of the base so the replacement can be processed.",
+ "model": "gemini-3-8-flash",
+ "params": {
+  "model": "gemini-3-8-flash",
+  "backend": "native",
+  "reasoning_effort": "low",
+  "temperature": 0.7
+ },
+ "prompt_sha": "9d138edde439",
+ "ts": "2026-11-20T00:56:24",
+ "usage": {
+  "candidatesTokenCount": 78,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 158
+   }
+  ],
+  "totalTokenCount": 236,
+  "promptTokenCount": 158
+ },
+ "credits": 0.02,
+ "latency_ms": 5666,
+ "cached": false
+}
